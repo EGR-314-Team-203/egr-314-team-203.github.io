@@ -1,7 +1,3 @@
----
-title: TEAM 203 PROJECT
----
-
 # TEAM 203 PROJECT
 
 _EGR 314_

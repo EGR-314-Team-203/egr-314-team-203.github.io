@@ -9,7 +9,8 @@ _Spring 2023_
 
 * Madi Hedges
 * Hasan Kaysan
-* Morgan Strube yooo
+* Morgan Strube 
 * Zachary Felty
 
 commit + push ZF
+commit + push MS

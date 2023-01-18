@@ -12,4 +12,4 @@ _Spring 2023_
 * Morgan Strube
 * Zachary Felty
 
-commit and push ZF
+commit + push ZF

@@ -49,6 +49,8 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 
 ## Presentation 1
 
+### [Team 203 Presentation 1](https://www.youtube.com/)
+
 ## Appendices
 
 ### [Appendix A: Team Organization](/TOA)

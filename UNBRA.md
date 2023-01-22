@@ -1,5 +1,5 @@
 ---
-title: Appendix B: User Needs, Benchmarking, and Requirements
+title: User Needs, Benchmarking, and Requirements
 ---
 
 Image here

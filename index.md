@@ -3,11 +3,15 @@ title: Team 203 Project
 ---
 
 # Team 203 Project
-* _EGR 314 Spring 2023 Dr Aukes_
-* _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan__
-* _23 January 2023_
+_EGR 314 Spring 2023 Dr Aukes_
+
+_Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan__
+
+_23 January 2023_
 
 ## Team Organization
+
+```
 ### Charter
 **Industry goals**
 
@@ -31,6 +35,7 @@ Team 203’s goals include working on a project together that will not only crea
 
 ### Product Mission Satement
 Team 203 plans to be able to create an efficient and affordable weather station type device that will allow ease of use for the consumer and allow room for improving day to day life. This product will allow the team to be able to work together to create a finalized product that displays accurate data and demonstrates the skills learned throughout the course.
+```
 
 ## User Needs, Benchmarking, and Requirements
 

@@ -50,3 +50,6 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 ## Presentation 1
 
 ## Appendices
+[Appendix A; Team Organization](/TOA)
+[Appendix B: User Needs, Benchmarking, and Requirements](/UNBRA)
+[Design Ideation](/DIA)

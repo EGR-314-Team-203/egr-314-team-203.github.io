@@ -47,7 +47,7 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 * What types of brainstorming worked? What didn't?
 * What was your process for organizing and ranking ideas? Who created or sketched each concept?
 
-## Presentation 1
+## Presentations
 
 ### [Team 203 Presentation 1](https://www.youtube.com/)
 

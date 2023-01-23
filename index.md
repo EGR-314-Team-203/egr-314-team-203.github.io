@@ -14,6 +14,7 @@ _23 January 2023_
 ## Team Organization
 
 ### Charter
+Produce a working product that meets design requirements and gives team members useful experiences to use throughout their careers.
 **Industry goals**
 * Sell roughly 100,000 units a year
 * Every 6 months look to improving the product with little cost or production set backs
@@ -28,7 +29,6 @@ _23 January 2023_
 * Learn various ways to get to the same point with the expanse of electronic selections
 * Combining different skill sets to help each team member work on something new and learn how each system works as a whole
 * Gain new programming skills with a new IDE and different language techniques
-
 
 Team 203’s goals include working on a project together that will not only create a finalized working product, but will teach each team member something new and incorporate many design ideas into a final design.
 
@@ -61,7 +61,7 @@ The process for organizing ideas started by subdividing into three categories: W
 
 ## Presentations
 
-### [Team 203 Checkpoint 1 Presentatiopn](https://www.youtube.com/)
+### [Team 203 Checkpoint 1 Presentatiopn](https://youtu.be/NVca4oIyfms)
 
 ## Appendices
 

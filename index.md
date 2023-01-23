@@ -34,12 +34,22 @@ Team 203’s goals include working on a project together that will not only crea
 
 ### Product Mission Satement
 Team 203 plans to be able to create an efficient and affordable weather station type device that will allow ease of use for the consumer and allow room for improving day to day life. This product will allow the team to be able to work together to create a finalized product that displays accurate data and demonstrates the skills learned throughout the course.
-## User Needs, Benchmarking, and Requirements
-* For example, how did your team organize, combine, and split needs into the list you arrived at? 
-* Justify the process by which your team assigned weights for importance, using both interview notes and internal team discussions.
-* Discuss the process by which your team converted user needs into specifications.
-* Discuss, with detail, how your design will be assessed according to the "aspects", to ensure your product meets your requirements.
 
+## User Needs, Benchmarking, and Requirements
+### Organization
+Based on related project searches a list of user needs was generated. The list of user needs was then subdivided into 6 categories: Physical properties, Data, Wireless features, Power, Accesibility, and Other. These categories were chosen because they seemed to encapsulate the positive and negative reviews that similar products were receiving.
+### Justification
+Of the 6 categories we determined the 3 most important to be: Power, Data, and Physical properties. Our team assigned weights for importance based on the frequency in which a problem occured in related products. 
+### Specifications
+We converted the needs into product specifications by analyzing the common pitfils of related products and assigning a general solution. An example of this would be that customers dislike cumbersome products, therefore, a product specification would be that it needs to be portable. (i.e less than 50 lbs).
+### Requirements
+* Maximized Battery Life
+* Must weigh less than 50 lbs (22.6 kg)
+* Easy to use and setup
+* Stores data for future use
+* Simple user interface
+* Portable
+* Accurate sensor readings
 
 ## Design Ideation
 ### Roles

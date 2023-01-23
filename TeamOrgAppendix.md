@@ -1,4 +1,4 @@
 ---
 title: Team Organization
 ---
-Image here
+# Image here

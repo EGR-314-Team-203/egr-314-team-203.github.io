@@ -14,6 +14,7 @@ _23 January 2023_
 ## Team Organization
 
 ### Charter
+
 Produce a working product that meets design requirements and gives team members useful experiences to use throughout their careers.
 **Industry goals**
 * Sell roughly 100,000 units a year

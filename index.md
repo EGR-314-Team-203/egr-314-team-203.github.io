@@ -1,6 +1,7 @@
 ---
 title: Team 203 Project
 ---
+theme: architect
 
 # Team 203 Project
 _Arizona State University_

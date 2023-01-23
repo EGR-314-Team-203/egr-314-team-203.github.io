@@ -15,11 +15,11 @@ _23 January 2023_
 
 ### Charter
 **Industry goals**
-Sell roughly 100,000 units a year
-Every 6 months look to improving the product with little cost or production set backs
-Increase production rate each year and lower the cost by 5%
-Research smaller electronics to allow room for improvements every few years
-Compare sales to competitors to lower or higher costs to improve sales
+* Sell roughly 100,000 units a year
+* Every 6 months look to improving the product with little cost or production set backs
+* Increase production rate each year and lower the cost by 5%
+* Research smaller electronics to allow room for improvements every few years
+* Compare sales to competitors to lower or higher costs to improve sales
 
 **Team Goals**
 * Expand upon knowledge of  electronic components and how to utilize them in final product demonstration
@@ -32,7 +32,7 @@ Compare sales to competitors to lower or higher costs to improve sales
 
 Team 203’s goals include working on a project together that will not only create a finalized working product, but will teach each team member something new and incorporate many design ideas into a final design.
 
-#### Product Mission Satement
+### Product Mission Satement
 Team 203 plans to be able to create an efficient and affordable weather station type device that will allow ease of use for the consumer and allow room for improving day to day life. This product will allow the team to be able to work together to create a finalized product that displays accurate data and demonstrates the skills learned throughout the course.
 ## User Needs, Benchmarking, and Requirements
 * For example, how did your team organize, combine, and split needs into the list you arrived at? 

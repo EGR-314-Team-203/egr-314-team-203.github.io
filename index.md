@@ -13,9 +13,8 @@ _23 January 2023_
 
 ## Team Organization
 
-#### Charter
+### Charter
 **Industry goals**
-
 Sell roughly 100,000 units a year
 Every 6 months look to improving the product with little cost or production set backs
 Increase production rate each year and lower the cost by 5%
@@ -23,7 +22,6 @@ Research smaller electronics to allow room for improvements every few years
 Compare sales to competitors to lower or higher costs to improve sales
 
 **Team Goals**
-
 * Expand upon knowledge of  electronic components and how to utilize them in final product demonstration
 * Make connections with fellow team members, classmates, and faculty. 
 * Add projects designed or built in EGR314 to career portfolios 
@@ -36,7 +34,6 @@ Team 203’s goals include working on a project together that will not only crea
 
 #### Product Mission Satement
 Team 203 plans to be able to create an efficient and affordable weather station type device that will allow ease of use for the consumer and allow room for improving day to day life. This product will allow the team to be able to work together to create a finalized product that displays accurate data and demonstrates the skills learned throughout the course.
-
 ## User Needs, Benchmarking, and Requirements
 * For example, how did your team organize, combine, and split needs into the list you arrived at? 
 * Justify the process by which your team assigned weights for importance, using both interview notes and internal team discussions.
@@ -45,12 +42,11 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 
 
 ## Design Ideation
-#### Roles
+### Roles
 Each team member was given the task of generating 25 ideas that encompassed at least one of the design requirements. The ideas were posted to a jamboard allowing the team to take inspiration from each other. Members then organized the ideas into catgories and ranked them. The top 3 design concepts were democratically chosen and created into vector drawings.
-#### Brainstorming
+### Brainstorming
 The most effective strategy for brainstorming during this process was riffing on each others ideas. Having a general concept to ideate and improve made brainstorming much simpler. The worst strategy for brainstorming tended to be the "solo" method. Thinking of original ideas without inspiration or help from the team can be difficult and time consuming.
-* What types of brainstorming worked? What didn't?
-#### Organization
+### Organization
 The process for organizing ideas started by subdividing into three categories: Weather realted, Self-regulating, and Sensor based. The preceding rows in each category are ranked in descending order of favoritism, with the top rows containing the ideas we were most excited about. Each of the three product concept sketch ideas were democratically selected from the top row of each categories. Once the the three best concepts were chosen they were drawn into vector images
 
 ## Presentations

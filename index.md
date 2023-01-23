@@ -15,7 +15,8 @@ _23 January 2023_
 
 ### Charter
 
-Produce a working product that meets design requirements and gives team members useful experiences to use throughout their careers.
+Produce a working product that meets design requirements and gives team members useful experiences to use throughout their careers. Working together to design, prototype, and manufacture to meet the following goals:
+
 **Industry goals**
 * Sell roughly 100,000 units a year
 * Every 6 months look to improving the product with little cost or production set backs

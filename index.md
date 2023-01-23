@@ -63,7 +63,7 @@ The process for organizing ideas started by subdividing into three categories: W
 
 ## Presentations
 
-### [Team 203 Checkpoint 1 Presentatiopn](https://youtu.be/NVca4oIyfms)
+### [Team 203 Checkpoint 1 Presentation](https://youtu.be/NVca4oIyfms)
 
 ## Appendices
 

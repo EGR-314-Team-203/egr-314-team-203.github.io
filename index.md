@@ -55,8 +55,8 @@ The process for organizing ideas started by subdividing into three categories: W
 
 ## Appendices
 
-### [Appendix A: Team Organization](/TOA)
+### [Appendix A: Team Organization](/TeamOrgAppendix)
 
-### [Appendix B: User Needs, Benchmarking, and Requirements](/UNBRA)
+### [Appendix B: User Needs, Benchmarking, and Requirements](/UserNeedsAppendix)
 
-### [Appendix C: Design Ideation](/DIA)
+### [Appendix C: Design Ideation](/DesignIdeaAppendix)

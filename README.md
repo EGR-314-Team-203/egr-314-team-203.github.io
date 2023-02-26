@@ -10,15 +10,3 @@ _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 
 # Checkpoint 2 (02/27/2023)
  (/index)
-
-## Presentations
-
-### [Team 203 Checkpoint 1 Presentation](https://youtu.be/NVca4oIyfms)
-
-## Appendices
-
-### [Appendix A: Team Organization](/TeamOrgAppendix)
-
-### [Appendix B: User Needs, Benchmarking, and Requirements](/UserNeedsAppendix)
-
-### [Appendix C: Design Ideation](/DesignIdeaAppendix)

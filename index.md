@@ -16,7 +16,8 @@ _23 January 2023_
 
 Description blah blah blah
 
-[Team 203 Verification Table.xlsx](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/files/10832977/Team.203.Verification.Table.xlsx)
+[Team 203 Verification Table.xlsx - Template.pdf](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/files/10832978/Team.203.Verification.Table.xlsx.-.Template.pdf)
+
 
 description
 

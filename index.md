@@ -105,11 +105,13 @@ Motor Driver - IFX9201SGAUMA1 [Found on Digikey](https://www.digikey.com/en/prod
 ![IFX9201SGAUMA1](https://user-images.githubusercontent.com/102606124/221481985-f09361f5-76eb-44bf-9022-381ef95a5b04.png)
 
 LED (Green) - LTST-C230KGKT [Found on Digikey](https://www.digikey.com/en/products/detail/liteon/LTST-C230KGKT/386855)
+
 For diagnosing subcircuits.
 
 ![LTST-C230KGKT](https://user-images.githubusercontent.com/102606124/221482152-89d21a39-7167-4e0b-88a4-dddbbbc30947.png)
 
 LED Strip - 4851 [Found on Digikey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4851/13688273)
+
 For providing artificial light to the plants in the contained environment.
 
 ![4851](https://user-images.githubusercontent.com/102606124/221482300-cab08df1-ea34-4f6a-a94d-a1c95b04632d.png)

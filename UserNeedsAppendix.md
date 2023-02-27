@@ -14,7 +14,7 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 [Sainlogic Wireless Weather Station](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_11?crid=2TSI65VXWDF7G&keywords=weather+controlled+kit&qid=1674013930&sprefix=weather+controlled+kit%2Caps%2C127&sr=8-11)
 
 | ![](RackMultipart20230227-1-hy4h48_html_3f1f6ee13963d97e.png) |
-
+|---|
 | **Keywords Used** | **Link to Result** |
 | Weather controlled kit | [Amazon Link](https://www.amazon.com/product-reviews/B08G1FZZ5M/ref=acr_dp_hist_5?ie=UTF8&filterByStar=five_star&reviewerType=all_reviews#reviews-filter-bar) |
 | Price: $139 |

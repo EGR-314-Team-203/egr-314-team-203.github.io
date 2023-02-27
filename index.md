@@ -62,8 +62,22 @@ The most effective strategy for brainstorming during this process was riffing on
 The process for organizing ideas started by subdividing into three categories: Weather realted, Self-regulating, and Sensor based. The preceding rows in each category are ranked in descending order of favoritism, with the top rows containing the ideas we were most excited about. Each of the three product concept sketch ideas were democratically selected from the top row of each categories. Once the the three best concepts were chosen they were drawn into vector images
 
 ## Selected Design
-### Roles
-The current design that the team has gone with...
+### Design Overview
+The current design that the team has gone with has been updated to allow more room for electronics and a new exterior design improvement. The design will provide a safe area for the electronics that is out of the way of the irrigation and has an easy accessible point. The exterior was altered with holes to allow more air flow in the box. Although the team wants to be able to control the environment as much as possible, without a fan or air flow in the box, there would be more challenges with keeping the plats alive.
+### Current Design
+IMAGE
+
+## Block Diagram
+### Diagram Overview
+Each team member was given the task of generating 25 ideas that encompassed at least one of the design requirements. The ideas were posted to a jamboard allowing the team to take inspiration from each other. Members then organized the ideas into catgories and ranked them. The top 3 design concepts were democratically chosen and created into vector drawings.
+### Current Diagram
+IMAGE
+
+## Component Selection
+### Selection Overview
+
+### Current Diagram
+IMAGE
 
 ## Presentations
 

@@ -13,7 +13,7 @@ _23 January 2023_
 
 ## Table of Contents
 * [Team Organization](#team-organization)
-* [User Needs, Benchmarking, and Requirements](#User-Needs,-Benchmarking,-and-Requirements)
+* [User Needs, Benchmarking, and Requirements](#User-Needs-Benchmarking-and-Requirements)
 * [Design Ideation](#design-ideation)
 * [Selected Design](#selected-design)
 * [Block Diagram](#block-diagram)

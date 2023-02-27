@@ -81,7 +81,7 @@ IMAGE
 
 ## Presentations
 
-### [Team 203 Checkpoint 1 Presentation](https://youtu.be/NVca4oIyfms)
+![Team 203 Checkpoint 1 Presentation](<iframe width="560" height="315" src="https://www.youtube.com/embed/NVca4oIyfms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
 
 ## Appendices
 

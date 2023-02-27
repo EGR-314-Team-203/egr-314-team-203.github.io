@@ -105,6 +105,7 @@ Each team member was given the task of generating 25 ideas that encompassed at l
 ### Current Diagram
 ![Team 203 Block Diagram](https://user-images.githubusercontent.com/102606124/221485012-f229a9d3-714c-4173-8c21-c358432b3d4b.png)
 
+<img src="https://user-images.githubusercontent.com/102606124/221485012-f229a9d3-714c-4173-8c21-c358432b3d4b.png" width="900" height="500">
 
 ## Component Selection
 ### Selection Overview

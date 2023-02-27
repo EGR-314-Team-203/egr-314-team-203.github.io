@@ -26,6 +26,7 @@ _Spring 2023_
 
 ## Table of Figures
 - [Current Design](#current-design)
+- [Current Diagram](#current-diagram)
 
 
 ## Team Organization

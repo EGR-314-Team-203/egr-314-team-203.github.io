@@ -178,11 +178,11 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 
 ### Categorized User Needs
 
-### ![](RackMultipart20230227-1-hy4h48_html_52e83ea06f27f2b5.png)
+![](RackMultipart20230227-1-hy4h48_html_52e83ea06f27f2b5.png)
 
 ### Ranked User Needs
 
-### ![](RackMultipart20230227-1-hy4h48_html_9825a0232925f3f7.png)
+![](RackMultipart20230227-1-hy4h48_html_9825a0232925f3f7.png)
 
 ### Compiled User Needs List (In no particular order)
 

@@ -147,6 +147,9 @@ Including each team member's individual schematioc and combining them together w
 ![team schemmy](https://user-images.githubusercontent.com/102606124/221492264-6cd2ee63-9c69-4a47-ab66-4fbc73bb19aa.png)
 
 
+A .pdf version of this schematic can also be downloaded in Appendix [NAME]
+
+
 ### Bill of Materials
 For the team's most recent version of the Bill of Materials, it can be found in Appendix
 

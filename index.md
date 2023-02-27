@@ -11,6 +11,9 @@ _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 
 _23 January 2023_
 
+## Table of Contents
+* [Team Organization](#team-organization)
+
 ## Team Organization
 
 ### Charter

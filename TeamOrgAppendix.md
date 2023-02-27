@@ -48,20 +48,6 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 
 2. Madison Hedges and Hasan Kaysan will be responsible for instructor correspondence. Any emails or meeting with the instructor will be relayed to the team if the topic is team oriented not personal.
 
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
-#
-
 # Meeting Schedule
 
 | **People** | **Abbreviation** | **Email** | **Phone** |
@@ -70,19 +56,6 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 | Madi | MA | mehedges@asu.edu | 623-980-9559 |
 | Zach | Z | zfelty@asu.edu | 623-707-5537 |
 | Haysan | HK | hkaysan@asu.edu | 480-266-6461 |
-
-| **Methods of Group Communication** |
- |
- |
-| --- | --- | --- |
-| **1** | Group text |
- |
-| **2** | Discord |
- |
-| **3** | Email |
- |
-
-#
 
 # Meeting Coordination
 

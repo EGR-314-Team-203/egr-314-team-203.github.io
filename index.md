@@ -2,7 +2,7 @@
 title: Team 203 Project
 ---
 
-# Team 203 Checkpoint 1 Report
+# Team 203 Project Report
 _Arizona State University_
 
 _EGR 314 Spring 2023 Dr Aukes_

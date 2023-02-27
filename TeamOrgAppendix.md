@@ -63,7 +63,7 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 | --- | --- | --- | --- |
 | Morgan | MS | mlstrube@asu.edu | 480-244-1508 |
 | Madi | MA | mehedges@asu.edu | 623-980-9559 |
-| Zach | Z | zfelty@asu.edu | 623-707-5537 |
+| Zach | ZF | zfelty@asu.edu | 623-707-5537 |
 | Haysan | HK | hkaysan@asu.edu | 480-266-6461 |
 
 # Meeting Coordination

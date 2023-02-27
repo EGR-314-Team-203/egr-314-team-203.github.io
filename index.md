@@ -61,6 +61,10 @@ The most effective strategy for brainstorming during this process was riffing on
 ### Organization
 The process for organizing ideas started by subdividing into three categories: Weather realted, Self-regulating, and Sensor based. The preceding rows in each category are ranked in descending order of favoritism, with the top rows containing the ideas we were most excited about. Each of the three product concept sketch ideas were democratically selected from the top row of each categories. Once the the three best concepts were chosen they were drawn into vector images
 
+## Selected Design
+### Roles
+The current design that the team has gone with...
+
 ## Presentations
 
 ### [Team 203 Checkpoint 1 Presentation](https://youtu.be/NVca4oIyfms)

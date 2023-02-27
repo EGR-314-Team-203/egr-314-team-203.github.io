@@ -1,7 +1,3 @@
----
-title: Team 203 Project
----
-
 # Team 203 Project Report
 _Arizona State University_
 

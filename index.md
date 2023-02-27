@@ -103,9 +103,8 @@ The current design that the team has gone with has been updated to allow more ro
 ### Diagram Overview
 Each team member was given the task of generating 25 ideas that encompassed at least one of the design requirements. The ideas were posted to a jamboard allowing the team to take inspiration from each other. Members then organized the ideas into catgories and ranked them. The top 3 design concepts were democratically chosen and created into vector drawings.
 ### Current Diagram
-![Team 203 Block Diagram](https://user-images.githubusercontent.com/102606124/221485012-f229a9d3-714c-4173-8c21-c358432b3d4b.png)
 
-<img src="https://user-images.githubusercontent.com/102606124/221485012-f229a9d3-714c-4173-8c21-c358432b3d4b.png" width="900" height="500">
+<img src="https://user-images.githubusercontent.com/102606124/221485012-f229a9d3-714c-4173-8c21-c358432b3d4b.png" width="1000" height="500">
 
 ## Component Selection
 ### Selection Overview

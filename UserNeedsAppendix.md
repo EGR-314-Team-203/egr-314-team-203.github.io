@@ -57,25 +57,15 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 
 | **Positive Statements** | **Rephrased Positive Statement into User Need** | **Negative Statements** | **Rephrased Negative Statement into User Need** |
 | --- | --- | --- | --- |
-| "This has been so much fun. I have my own weather station that was easy to set up, is accurate and provides lots of information. It has an understated profile and is well made. I was able to attach it to my roof. The app for my android works extremely well. The widget is incredible.This has taken the place of my main weather app. I look at it frequently throughout the day.I found it on sale, however, after using it for 2 months, I would have paid full price if I knew how great it would perform." | [Explicit] The device is accurate and gives correct information.
-[Explicit] Included software is easy to use
- | "Main goal measure rain and contribute data. Hurricane Ian dispersed over us and we had 0.06 inches of rain according to the meter. Our old fashion rain gauge says 2.25 inches. We are farmers. I have setup four (4) other stations in the northeast and they also have same issue! How could this have a four/five star rating by Amazon customers? The stations are on a 4x4 post in the middle of a field, no obstruction for 60 feet. Not an install issue. Have filled out calibration form with tempest and do know my station IDs. Still this is not a reasonable expectation for owners-was not simple entry from the app. Had to go to website and fill out a form." | [Explicit] Device has clear instructions on how to install.
-User friendly setup and installation. (Explicit)
- |
-| "It took longer to climb up the ladder and install the unit than it did to set it up, very simple, very easy to do and it went right to work, well thought out, well built, easy setup and install" | [Latent] The device is user-friendly.
-[Explicit] Easy setup
-[Explicit] Simple user interface | "As a scientist i love data, i have had an accurite for over 10 years. This was a replacement for old reliable… It is not ready for prime time:
+| "This has been so much fun. I have my own weather station that was easy to set up, is accurate and provides lots of information. It has an understated profile and is well made. I was able to attach it to my roof. The app for my android works extremely well. The widget is incredible.This has taken the place of my main weather app. I look at it frequently throughout the day.I found it on sale, however, after using it for 2 months, I would have paid full price if I knew how great it would perform." | [Explicit] The device is accurate and gives correct information. | [Explicit] Included software is easy to us | "Main goal measure rain and contribute data. Hurricane Ian dispersed over us and we had 0.06 inches of rain according to the meter. Our old fashion rain gauge says 2.25 inches. We are farmers. I have setup four (4) other stations in the northeast and they also have same issue! How could this have a four/five star rating by Amazon customers? The stations are on a 4x4 post in the middle of a field, no obstruction for 60 feet. Not an install issue. Have filled out calibration form with tempest and do know my station IDs. Still this is not a reasonable expectation for owners-was not simple entry from the app. Had to go to website and fill out a form." |
+| [Explicit] Device has clear instructions on how to install. | User friendly setup and installation. (Explicit) | "It took longer to climb up the ladder and install the unit than it did to set it up, very simple, very easy to do and it went right to work, well thought out, well built, easy setup and install" | [Latent] The device is user-friendly.| 
+| [Explicit] Easy setup | [Explicit] Simple user interface | "As a scientist i love data, i have had an accurite for over 10 years. This was a replacement for old reliable… It is not ready for prime time:
 1. It will not charge despite 4-6 hours of direct sunBattery was dead in 2 weeks.
 2. ordered external power supply which kept battery charged but it would lose connection with base station after an hour when on external battery despite being 20 feet from hub and router.
 I just can not get more than 10 min of data when on battery power, disconnect power and it works but battery dies…
-Just ordered a new accurite… sigh…" | [Latent] The device has a longer lifetime.
-The device has a reliable battery. (Explicit)
-[Latent] Device is able to last for an extended duration and/or be maintained for long periods of time.
- |
-| "It's everything Tempest advertises. Truly 5 mins to set up. App is superb. Connection to Alexa is easy (most important feature for me). Durable. The solar power feature is excellent. Low profile with no extraneous parts, like vanes. I replaced my SainLogic with this one. I'm buying another for my vacation home. This is the real deal!" | [Explicit] Device has clear instructions on how to install.
-[Explicit] The device has multiple functions and is very accessible. | "Lasted about a year then quit powering up. Solar power is a joke. The wind is a joke and the rain is a joke. Don't waste your money. Get a Acurite or Ambient Station." | [Latent] The device has a longer lifetime.
-
- |
+Just ordered a new accurite… sigh…" | [Latent] The device has a longer lifetime. |
+| The device has a reliable battery. (Explicit) | [Latent] Device is able to last for an extended duration and/or be maintained for long periods of time. | "It's everything Tempest advertises. Truly 5 mins to set up. App is superb. Connection to Alexa is easy (most important feature for me). Durable. The solar power feature is excellent. Low profile with no extraneous parts, like vanes. I replaced my SainLogic with this one. I'm buying another for my vacation home. This is the real deal!" | [Explicit] Device has clear instructions on how to install. |
+[Explicit] The device has multiple functions and is very accessible. | "Lasted about a year then quit powering up. Solar power is a joke. The wind is a joke and the rain is a joke. Don't waste your money. Get a Acurite or Ambient Station." | [Latent] The device has a longer lifetime. | N?A |
 
 ##
 

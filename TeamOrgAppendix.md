@@ -50,7 +50,7 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 # Meeting Schedule
 
 | **Time** | **Sunday** | **Monday** | **Wednesday** | **Saturday** |
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 11:00 | MA, MO, ZF, HK | | | |
 | 12:00 | MA, MO, ZF, HK | | | |
 | 1:00 | MA, MO, ZF, HK | MA, MO, ZF, HK | MA, MO, ZF, HK | MA, MO, ZF, HK |

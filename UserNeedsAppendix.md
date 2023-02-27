@@ -49,7 +49,6 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 | Keywords Used | Link to Result |
 | Weather Report System | [Amazon Link](https://www.amazon.com/Tempest-Weather-Accurate-Forecasts-Wireless/dp/B0868WY7NY/ref=sr_1_2_sspa?crid=2A41ZUVPTLWG&keywords=weather%2Bstation&qid=1674058679&sprefix=weather%2Bstation%2Caps%2C150&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&smid=A3RAYC554RKGF9&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzNE9LWEs1UjA2Q1FUJmVuY3J5cHRlZElkPUEwNTU5NjYzMU5RMUpKSVlWTk5FQyZlbmNyeXB0ZWRBZElkPUEwNzAxMTg3MVFETjAxSEs5TzU2WCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1) |
 | Price: $329.00 |
- |
 
 | **Positive Statements** | **Rephrased Positive Statement into User Need** | **Negative Statements** | **Rephrased Negative Statement into User Need** |
 | --- | --- | --- | --- |

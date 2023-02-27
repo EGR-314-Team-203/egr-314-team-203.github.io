@@ -76,17 +76,10 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 
 | **Positive Statements** | **Rephrased Positive Statement into User Need** | **Negative Statements** | **Rephrased Negative Statement into User Need** |
 | --- | --- | --- | --- |
-| "Excellent product - small size, inexpensive, easy to setup and download and appears to be accurate."
-
- | [Explicit] The product should be portable
-[Explicit] Easy setup.
-[Explicit] Displays accurate data. | "One of the units worked the first couple of days then something went wrong." | [Explicit] The product needs to be robust.
-[Latent] Device needs to be free of manufacturing defects. |
-| "The software makes it easy to dump the device to a PC via USB." | [Explicit] Included software is easy to use.
-[Latent] Bug-free software. | "I had a hard time getting this company to replace the unit." | [Explicit] Good customer service is needed for potential product defects.
- |
-| "This logger is very easy to use and read" | [Explicit] Simple user interface.
- | "There is no open source software that will work with it as far as I am aware." | [Latent] Device needs cross-compatibility for third party software. |
+| "Excellent product - small size, inexpensive, easy to setup and download and appears to be accurate." | [Explicit] The product should be portable | [Explicit] Easy setup. | [Explicit] Displays accurate data. |
+| "One of the units worked the first couple of days then something went wrong." | [Explicit] The product needs to be robust. | [Latent] Device needs to be free of manufacturing defects. | "The software makes it easy to dump the device to a PC via USB." |
+| [Explicit] Included software is easy to use. | [Latent] Bug-free software. | "I had a hard time getting this company to replace the unit." | [Explicit] Good customer service is needed for potential product defects. |
+| "This logger is very easy to use and read" | [Explicit] Simple user interface. | "There is no open source software that will work with it as far as I am aware." | [Latent] Device needs cross-compatibility for third party software. |
 
 ### Product Result #5
 

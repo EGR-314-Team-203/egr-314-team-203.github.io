@@ -135,6 +135,11 @@ Microcontroller - PIC18F27Q84 [Found on Digikey](https://www.digikey.com/en/prod
 
 
 ## Hardware Proposal
+### Schematic
+Including each team member's individual schematioc and combining them together with team based work components, this schematic is the most recently updated version is shown below.
+Team 203 Schematic IMAGE
+### Bill of Materials
+For the team's most recent version of the Bill of Materials, it can be found in Appendix
 
 ## Software Proposal
 Below is a diagram of how the software should run on the microcontroller and subcircuits. The goal is to have the box lid open if the moisture sensor or temperature sensor detects a value that is higher than the user set. This will tell the microcontroller to trigger the motors to open the lid to keeps the plants in an ideal environment.

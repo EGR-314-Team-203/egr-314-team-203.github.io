@@ -27,6 +27,9 @@ _Spring 2023_
 ## Table of Figures
 - [Current Design](#current-design)
 - [Current Diagram](#current-diagram)
+- [Chosen Parts](#chosen-parts)
+- [Power Budget](#power-budget)
+- [Schematic](#schematic)
 
 
 ## Team Organization

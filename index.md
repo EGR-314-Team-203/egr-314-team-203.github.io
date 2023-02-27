@@ -89,26 +89,33 @@ IMAGE
 
 ### Chosen Parts
 Temperature Sensor - LM75BD [Found on Digikey](https://www.digikey.com/en/products/detail/umw/LM75BD/16842174?utm_adgroup=Temperature%20Sensors%20-%20NTC%20Thermistors&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Sensors%2C%20Transducers_NEW&utm_term=&utm_content=Temperature%20Sensors%20-%20NTC%20Thermistors&gclid=Cj0KCQiAorKfBhC0ARIsAHDzslv9GIfb93bmvJccUv8R-opUv7Dptezt21sXMPO6fPWY4PgNtWwrrqsaAhLVEALw_wcB)
+
 ![LM75BD](https://user-images.githubusercontent.com/102606124/221481217-12a9fd89-28cb-4715-8789-5646c556436f.png)
 
 Humdity Sensor - HIH6030-000-001[Found on Digikey](https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6030-000-001/4440787)
+
 ![HIH6030-000-001](https://user-images.githubusercontent.com/102606124/221481478-40137153-dce3-425e-bed4-81e7c9ca116c.png)
 
 Switching Regulator - AZ34063UMTR-G1 [Found on Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007)
+
 ![AZ34063UMTR-G1](https://user-images.githubusercontent.com/102606124/221481650-23a2d1ce-d08e-4acd-8e0a-5cba31ce7f7a.png)
 
 Motor Driver - IFX9201SGAUMA1 [Found on Digikey](https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542)
+
 ![IFX9201SGAUMA1](https://user-images.githubusercontent.com/102606124/221481985-f09361f5-76eb-44bf-9022-381ef95a5b04.png)
 
 LED (Green) - LTST-C230KGKT [Found on Digikey](https://www.digikey.com/en/products/detail/liteon/LTST-C230KGKT/386855)
 For diagnosing subcircuits.
+
 ![LTST-C230KGKT](https://user-images.githubusercontent.com/102606124/221482152-89d21a39-7167-4e0b-88a4-dddbbbc30947.png)
 
 LED Strip - 4851 [Found on Digikey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4851/13688273)
 For providing artificial light to the plants in the contained environment.
+
 ![4851](https://user-images.githubusercontent.com/102606124/221482300-cab08df1-ea34-4f6a-a94d-a1c95b04632d.png)
 
 6V Water Pump - FIT0563 [Found on Digikey](https://www.digikey.com/en/products/detail/dfrobot/FIT0563/8827828)
+
 ![FIT0563](https://user-images.githubusercontent.com/102606124/221482484-3cac8b8b-0ea3-4493-9297-5ebb1dc6fa6a.png)
 
 ## Hardware Proposal

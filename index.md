@@ -159,7 +159,7 @@ Microcontroller - PIC18F27Q84 [Found on Digikey](https://www.digikey.com/en/prod
 ### Power Budget
 In order to ensure that all systems can be used, a power budget was created. This power budget ensures we have all aspects (voltage, Amps, etc.) to power each part of our system.
 
-<img src="https://user-images.githubusercontent.com/102606124/221492170-6a5ddf5d-8faa-487d-9b23-51a00a330cb4.png" width="800" height="800">
+<img src="https://user-images.githubusercontent.com/102606124/221492170-6a5ddf5d-8faa-487d-9b23-51a00a330cb4.png" width="1000" height="700">
 
 ## Hardware Proposal
 ### Schematic

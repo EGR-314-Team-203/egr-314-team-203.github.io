@@ -1,6 +1,9 @@
 ---
 title: Hardware Proposal
 ---
+
+# Hardware Proposal
+
 ## Team Schematic
 Below is a schematic of each teammate's subsystem, combined into our final product.
 

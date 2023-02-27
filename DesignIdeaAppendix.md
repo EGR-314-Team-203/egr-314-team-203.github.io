@@ -1,5 +1,5 @@
 ---
-Design Ideation
+Title: Design Ideation
 ---
 
 ### Original Design Idea 1

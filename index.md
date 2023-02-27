@@ -55,9 +55,9 @@ We converted the needs into product specifications by analyzing the common pitfi
 
 ## Design Ideation
 ### Roles
-Each team member was given the task of generating 25 ideas that encompassed at least one of the design requirements. The ideas were posted to a jamboard allowing the team to take inspiration from each other. Members then organized the ideas into catgories and ranked them. The top 3 design concepts were democratically chosen and created into vector drawings.
+Each team member in Team 203 was given the task of generating 25 or more ideas that encompassed at least one of the design requirements. The 100 ideas were posted to a online collaborative jamboard allowing the team to take inspiration from each other to effectivly brainstom ideas. Team members then organized the ideas into catgories and ranked them. The top three design concepts were democratically chosen and created into vector drawings for the next stages in prototyping.
 ### Brainstorming
-The most effective strategy for brainstorming during this process was riffing on each others ideas. Having a general concept to ideate and improve made brainstorming much simpler. The worst strategy for brainstorming tended to be the "solo" method. Thinking of original ideas without inspiration or help from the team can be difficult and time consuming.
+The most effective strategy for our team used for brainstorming during this process was riffing on each others ideas. Our team found that having a general concept to ideate and improve made our collective brainstorming much simpler. The worst strategy for brainstorming our team found tended to be the "solo" method. We found that thinking of original ideas without inspiration or help from the team can be difficult and time consuming.
 ### Organization
 The process for organizing ideas started by subdividing into three categories: Weather realted, Self-regulating, and Sensor based. The preceding rows in each category are ranked in descending order of favoritism, with the top rows containing the ideas we were most excited about. Each of the three product concept sketch ideas were democratically selected from the top row of each categories. Once the the three best concepts were chosen they were drawn into vector images
 

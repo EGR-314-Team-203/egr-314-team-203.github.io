@@ -159,14 +159,13 @@ Microcontroller - PIC18F27Q84 [Found on Digikey](https://www.digikey.com/en/prod
 ### Power Budget
 In order to ensure that all systems can be used, a power budget was created. This power budget ensures we have all aspects (voltage, Amps, etc.) to power each part of our system.
 
-<img src="https://user-images.githubusercontent.com/102606124/221492170-6a5ddf5d-8faa-487d-9b23-51a00a330cb4.png" width="1000" height="700">
+<img src="https://user-images.githubusercontent.com/102606124/221492170-6a5ddf5d-8faa-487d-9b23-51a00a330cb4.png" width="800" height="700">
 
 ## Hardware Proposal
 ### Schematic
 Including each team member's individual schematioc and combining them together with team based work components, this schematic is the most recently updated version is shown below.
 
-![team schemmy](https://user-images.githubusercontent.com/102606124/221492264-6cd2ee63-9c69-4a47-ab66-4fbc73bb19aa.png)
-
+<img src="https://user-images.githubusercontent.com/102606124/221492264-6cd2ee63-9c69-4a47-ab66-4fbc73bb19aa.png" width="800" height="700">
 
 A .pdf version of this schematic can also be downloaded in Appendix [NAME]
 

@@ -96,7 +96,7 @@ The current design that the team has gone with has been updated to allow more ro
 ### Current Design
 ![Isometric view 1](https://user-images.githubusercontent.com/102606124/221485566-40540cdb-7dee-4ba6-af0f-6db130d171c5.png)
 
-<img arc="https://user-images.githubusercontent.com/102606124/221485566-40540cdb-7dee-4ba6-af0f-6db130d171c5.png" width="150" height="280">
+<img arc="https://user-images.githubusercontent.com/102606124/221485566-40540cdb-7dee-4ba6-af0f-6db130d171c5.png" width="300" height="200">
 
 ![Isometric view 2](https://user-images.githubusercontent.com/102606124/221485631-a41c417c-2198-4910-8cc5-b3ef16f0d64d.png)
 ![front view](https://user-images.githubusercontent.com/102606124/221485683-155c04ad-5f95-44d1-a467-f783565ef965.png)

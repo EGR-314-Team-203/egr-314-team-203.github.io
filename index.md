@@ -70,18 +70,20 @@ The process for organizing ideas started by subdividing into three categories: W
 The team chose Design Concept 3 - The Plant Health Music Alarm for our chosen design. Our team decided to change some major components of the design, to better fit project requirments, as well as taking into acount user satisfaction and needs. The team decided to move away from the idea of an alarm, and move towards using an OLED to diplay information gathered by the sensors.
 
 The current design that the team has gone with has been updated to allow more room for electronics and a new exterior design improvement. The design will provide a safe area for the electronics that is out of the way of the irrigation and has an easy accessible point. The exterior was altered with holes to allow more air flow in the box. Although the team wants to be able to control the environment as much as possible, without a fan or air flow in the box, there would be more challenges with keeping the plats alive.
-### Current Design
-IMAGE
 
-## Block Diagram
-### Diagram Overview
-Each team member was given the task of generating 25 ideas that encompassed at least one of the design requirements. The ideas were posted to a jamboard allowing the team to take inspiration from each other. Members then organized the ideas into catgories and ranked them. The top 3 design concepts were democratically chosen and created into vector drawings.
-### Current Diagram
+### Current Design
+Here is a CAD model made in SolidWorks of our most current project concept.
 ![iusometric](https://user-images.githubusercontent.com/102606124/221479887-fba18b4c-3a36-42f1-9a6c-d595ab3f7701.png)
 ![front view](https://user-images.githubusercontent.com/102606124/221479923-78639269-5772-47d8-9e8b-b58492deadcf.png)
 ![isometric 2](https://user-images.githubusercontent.com/102606124/221479935-c131f233-4533-42be-8c86-c77b6e0d7c8f.png)
 ![pump](https://user-images.githubusercontent.com/102606124/221479957-b1fd4633-c440-4840-8915-d22d798f1e63.png)
 
+## Block Diagram
+### Diagram Overview
+Each team member was given the task of generating 25 ideas that encompassed at least one of the design requirements. The ideas were posted to a jamboard allowing the team to take inspiration from each other. Members then organized the ideas into catgories and ranked them. The top 3 design concepts were democratically chosen and put into our chosen project (plant environment box). 
+### Current Diagram
+Below is a demonstration of how the device should generally work.
+![Team 203 Block Diagram](https://user-images.githubusercontent.com/102606124/221480544-bb26fe83-02a3-4d02-9e2a-427989efbf73.png)
 
 ## Component Selection
 ### Selection Overview

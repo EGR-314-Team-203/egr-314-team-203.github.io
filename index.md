@@ -12,16 +12,16 @@ _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 _23 January 2023_
 
 ## Table of Contents
-[Team Organization](#team-organization)
-[User Needs, Benchmarking, and Requirements](#User Needs, Benchmarking, and Requirements)
-[Design Ideation](#design-ideation)
-[Selected Design](#selected-design)
-[Block Diagram](#block-diagram)
-[Component Selection](#component-selection)
-[Hardware Proposal](#hardware-proposal)
-[Software Proposal](#software-proposal)
-[Presentations](#presentations)
-[Appendices](#appendices)
+- [Team Organization](#team-organization)
+- [User Needs, Benchmarking, and Requirements](#User Needs, Benchmarking, and Requirements)
+- [Design Ideation](#design-ideation)
+- [Selected Design](#selected-design)
+- [Block Diagram](#block-diagram)
+- [Component Selection](#component-selection)
+- [Hardware Proposal](#hardware-proposal)
+- [Software Proposal](#software-proposal)
+- [Presentations](#presentations)
+- [Appendices](#appendices)
 
 ## Team Organization
 

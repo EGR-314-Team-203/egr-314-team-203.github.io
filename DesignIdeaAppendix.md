@@ -2,6 +2,8 @@
 title: Design Ideation
 ---
 
+#Design Ideation
+
 ### Original Design Idea 1
 ![Copy of drone_idea](https://user-images.githubusercontent.com/102606124/221393281-326c6327-fe03-40b0-84c4-5aa1cc19bc34.png)
 

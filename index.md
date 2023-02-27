@@ -84,8 +84,6 @@ IMAGE
 {% raw %} {% include youtube.html id="NVca4oIyfms" %}
 {% endraw %}
 
-{% include youtube.html id="NVca4oIyfms" %}
-
 ## Appendices
 
 ### [Appendix A: Team Organization](/TeamOrgAppendix)

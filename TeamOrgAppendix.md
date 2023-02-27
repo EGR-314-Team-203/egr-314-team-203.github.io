@@ -7,27 +7,6 @@ Team 203
 
 Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 
-# Table of Contents
-
-[Charter](#_abnkpzlibsyb) 1
-
-[Product Mission Statement](#_wigj3dbqm4ot) 2
-
-[Communication Channels](#_9yxb7izsq0g) 2
-
-[Communication Procedures](#_x13rngvtbewo) 2
-
-[Meeting Schedule](#_3807dgkpcovw) 3
-
-[Meeting Coordination](#_hlyrsv3mh1t9) 4
-
-[Team Coordination](#_koqcnimkozxj) 4
-
-[Signatures](#_hg438i1icvra) 5
-
-#
-
-
 # Charter
 
 Industry goals

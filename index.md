@@ -13,7 +13,7 @@ _23 January 2023_
 
 ## Table of Contents
 - [Team Organization](#team-organization)
-- [User Needs, Benchmarking, and Requirements](#user-needs,-benchmarking,-and-requirements)
+- [User Needs Benchmarking and Requirements](#user-needs-benchmarking-and-requirements)
 - [Design Ideation](#design-ideation)
 - [Selected Design](#selected-design)
 - [Block Diagram](#block-diagram)
@@ -49,7 +49,7 @@ Team 203’s goals include working on a project together that will not only crea
 ### Product Mission Satement
 Team 203 plans to be able to create an efficient and affordable weather station type device that will allow ease of use for the consumer and allow room for improving day to day life. This product will allow the team to be able to work together to create a finalized product that displays accurate data and demonstrates the skills learned throughout the course.
 
-## User Needs, Benchmarking, and Requirements
+## User Needs Benchmarking and Requirements
 ### Organization
 Based on related project searches a list of user needs was generated. The list of user needs was then subdivided into 6 categories: Physical properties, Data, Wireless features, Power, Accesibility, and Other. These categories were chosen because they seemed to encapsulate the positive and negative reviews that similar products were receiving.
 ### Justification

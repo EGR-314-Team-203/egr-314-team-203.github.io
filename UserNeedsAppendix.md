@@ -8,43 +8,6 @@ Team 203
 
 Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 
-#
-
-
-# Table of Contents
-
-**[Online Product Search](#_9agaguehk1qb) 1**
-
-[Product Result #1](#_bshv6ysn48hl) 1
-
-[Product Result #2](#_64gtxxa00d4q) 3
-
-[Zynect Thermote Wireless Remote Temperature Sensor](#_x9hq5brfnnuo) 3
-
-[Product Result #3](#_w83w3ym13mao) 5
-
-[Product Result #4](#_qequew7avqvu) 8
-
-[HOBO temperature/relative humidity data logger](#_9q5owg9u94w3) 8
-
-[Product Result #5](#_bitziqbcsdnc) 10
-
-[Logia 7-in-1 Wi-Fi Weather Station](#_4ed605paee3j) 10
-
-**[Generated User Needs List](#_5m8jte7r369x) 12**
-
-**[User Needs Jamboard](#_1m2uxjsocyak) 14**
-
-[60 Unorganized User Needs](#_7x6xytnp7s67) 14
-
-[Categorized User Needs](#_ktjchgh8gti) 15
-
-[Ranked User Needs](#_fgmw7i3ayry) 15
-
-[Compiled User Needs List (In no particular order)](#_h94rbn73aspz) 16
-
-#
-
 
 # Online Product Search
 
@@ -61,12 +24,9 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 
 | **Positive Statements** | **Rephrased Positive Statement into User Need** | **Negative Statements** | **Rephrased Negative Statement into User Need** |
 | --- | --- | --- | --- |
-| "The weather station seems to be of good quality materials that should last a long time.Tons of features. I love that it shows the wind speed and direction on the display." | Has desired features on the device. (Explicit) Station is durable and consistent. (Explicit) Clear, detailed and accurate data is shown. (Latent)
- | "This weather station has pretty severe mounting limitations if you are mounting it on a "vertical" service" | Ease of accessibility to everyone and everywhere. (Explicit) Have add ons for different ways to mount (Latent)
- |
-| "This product is simple to set up and install and requires almost no maintenance, except for occasionally removing the rain gauge to clean out debris. It worked non stop in perfect condition 24/7" | The device is user friendly. (Explicit) Able to withstand extreme weather. (Explicit) Easy access to be able to clean. (Explicit) | "The outside reader quit working altogether in just 2 months or so. I took it apart to see if it could be fixed. The unit was full of ants and the circuit board was already turning green from corrosion in spots." | Device needs to work for the long run (Explicit) Withstand the environment and its friends. (Latent) Weather coating on the circuitry or more protection. (Explicit) |
-| "It works wirelessly, uses battery backup, as a bright screen that's not too large and easy to see." | Wireless control from anywhere.(Explicit) The screen is bright enough to see outside under the sun.(Latent) The device has a reliable battery. (Explicit)
- | "Went up quick, bright display, easy to set the time, etc. Would have given 5 stars except the batteries in the outdoor unit will be very difficult to replace while on the roof. " | Device needs to be inclusive to all for upkeep. (Latent) User friendly setup and installation. (Explicit) Device works on real time. (Explicit) |
+| "The weather station seems to be of good quality materials that should last a long time.Tons of features. I love that it shows the wind speed and direction on the display." | Has desired features on the device. (Explicit) Station is durable and consistent. (Explicit) Clear, detailed and accurate data is shown. (Latent) | "This weather station has pretty severe mounting limitations if you are mounting it on a "vertical" service" | Ease of accessibility to everyone and everywhere. (Explicit) Have add ons for different ways to mount (Latent) | 
+|"This product is simple to set up and install and requires almost no maintenance, except for occasionally removing the rain gauge to clean out debris. It worked non stop in perfect condition 24/7" | The device is user friendly. (Explicit) Able to withstand extreme weather. (Explicit) Easy access to be able to clean. (Explicit) | "The outside reader quit working altogether in just 2 months or so. I took it apart to see if it could be fixed. The unit was full of ants and the circuit board was already turning green from corrosion in spots." | Device needs to work for the long run (Explicit) Withstand the environment and its friends. (Latent) Weather coating on the circuitry or more protection. (Explicit) |
+| "It works wirelessly, uses battery backup, as a bright screen that's not too large and easy to see." | Wireless control from anywhere.(Explicit) The screen is bright enough to see outside under the sun.(Latent) The device has a reliable battery. (Explicit) | "Went up quick, bright display, easy to set the time, etc. Would have given 5 stars except the batteries in the outdoor unit will be very difficult to replace while on the roof. " | Device needs to be inclusive to all for upkeep. (Latent) User friendly setup and installation. (Explicit) Device works on real time. (Explicit) |
 
 ##
 

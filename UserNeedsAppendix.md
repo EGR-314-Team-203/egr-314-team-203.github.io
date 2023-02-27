@@ -174,15 +174,15 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 
 ### 60 Unorganized User Needs
 
-![](RackMultipart20230227-1-hy4h48_html_1aab86028886b451.png)
+![unorganized](https://user-images.githubusercontent.com/102606124/221487792-d7b74f9d-a189-4e4d-9940-87ee43b9cc2c.png)
 
 ### Categorized User Needs
 
-![](RackMultipart20230227-1-hy4h48_html_52e83ea06f27f2b5.png)
+![organized](https://user-images.githubusercontent.com/102606124/221487943-c6d59030-c20e-4fca-96f0-90b3788773e0.png)
 
 ### Ranked User Needs
 
-![](RackMultipart20230227-1-hy4h48_html_9825a0232925f3f7.png)
+![ranaked](https://user-images.githubusercontent.com/102606124/221487827-d7380b19-158b-4c88-ad69-f94804a35ac1.png)
 
 ### Compiled User Needs List (In no particular order)
 

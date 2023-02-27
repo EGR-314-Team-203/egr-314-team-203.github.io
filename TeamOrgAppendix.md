@@ -51,11 +51,11 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 
 | **Time** | **Sunday** | **Monday** | **Wednesday** | **Saturday** |
 | --- | --- | --- | --- | --- |
-| 11:00 | MA, MO, ZF, HK | | | |
-| 12:00 | MA, MO, ZF, HK | | | |
+| 11:00 | MA, MO, ZF, HK | N/A | N/A | N/A |
+| 12:00 | MA, MO, ZF, HK | N/A | N/A | N/A |
 | 1:00 | MA, MO, ZF, HK | MA, MO, ZF, HK | MA, MO, ZF, HK | MA, MO, ZF, HK |
 | 2:00 | MA, MO, ZF, HK | MA, MO, ZF, HK | MA, MO, ZF, HK1 | MA, MO, ZF, HK |
-| 3:00 | MA, MO, ZF, HK | | | MA, MO, ZF, HK |
+| 3:00 | MA, MO, ZF, HK | N/A | N/A | MA, MO, ZF, HK |
 
 
 

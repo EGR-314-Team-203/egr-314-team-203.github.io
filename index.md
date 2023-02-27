@@ -114,6 +114,9 @@ For providing artificial light to the plants in the contained environment.
 ## Hardware Proposal
 
 ## Software Proposal
+Below is a diagram of how the software should run on the microcontroller and subcircuits. The goal is to have the box lid open if the moisture sensor or temperature sensor detects a value that is higher than the user set. This will tell the microcontroller to trigger the motors to open the lid to keeps the plants in an ideal environment.
+![TEAM 203 COMPLETE SOFTWARE (1)](https://user-images.githubusercontent.com/102606124/221484119-72a156be-3abc-4f81-9cb6-9f7a0149567d.png)
+
 
 ## Presentations
 {% raw %} {% include youtube.html id="NVca4oIyfms" %}

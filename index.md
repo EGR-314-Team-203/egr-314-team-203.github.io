@@ -34,6 +34,7 @@ _Spring 2023_
 - [Software Proposal Diagram](#software-proposal)
 
 ## Introduction
+This semester, the EGR 314 (Embedded Systems Design) class is focusing on weather-related measurements. All teams are tasked with creating a deliverable product that, in some sense, measures and responds to the environment around it. Our team, Team 203, is creating a plant environment box that measure the temperature and humidity within a contained planter that can adjust watering and the lid movement in order to help the plant thrive in the best conditions.
 
 ## Team Organization
 

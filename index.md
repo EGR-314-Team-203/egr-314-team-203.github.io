@@ -143,7 +143,10 @@ In order to ensure that all systems can be used, a power budget was created. Thi
 ## Hardware Proposal
 ### Schematic
 Including each team member's individual schematioc and combining them together with team based work components, this schematic is the most recently updated version is shown below.
-Team 203 Schematic IMAGE
+
+![team schemmy](https://user-images.githubusercontent.com/102606124/221492264-6cd2ee63-9c69-4a47-ab66-4fbc73bb19aa.png)
+
+
 ### Bill of Materials
 For the team's most recent version of the Bill of Materials, it can be found in Appendix
 

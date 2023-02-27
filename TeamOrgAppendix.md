@@ -34,8 +34,7 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 
 # Communication Channels
 
-|
- | First Choice Communication | Second Choice Communication | Third Choice Communication |
+| ** ** | **First Choice Communication** | **Second Choice Communication** | **Third Choice Communication** |
 | --- | --- | --- | --- |
 | Zachary Felty | Discord | Text | Email |
 | Madison Hedges | Discord | Text | Email |

@@ -13,6 +13,7 @@ _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 _Spring 2023_
 
 ## Table of Contents
+- [Introduction](#introduction)
 - [Team Organization](#team-organization)
 - [User Needs Benchmarking and Requirements](#user-needs-benchmarking-and-requirements)
 - [Design Ideation](#design-ideation)
@@ -32,6 +33,7 @@ _Spring 2023_
 - [Schematic](#schematic)
 - [Software Proposal Diagram](#software-proposal)
 
+## Introduction
 
 ## Team Organization
 

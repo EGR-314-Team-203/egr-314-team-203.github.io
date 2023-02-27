@@ -123,19 +123,13 @@ Humdity Sensor - HIH6030-000-001[Found on Digikey](https://www.digikey.com/en/pr
 
 <img src="https://user-images.githubusercontent.com/102606124/221481478-40137153-dce3-425e-bed4-81e7c9ca116c.png" width="200" height="200">
 
-<img src="" width="200" height="200">
-
 Switching Regulator - AZ34063UMTR-G1 [Found on Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007)
 
-![AZ34063UMTR-G1](https://user-images.githubusercontent.com/102606124/221481650-23a2d1ce-d08e-4acd-8e0a-5cba31ce7f7a.png)
-
-<img src="" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/102606124/221481650-23a2d1ce-d08e-4acd-8e0a-5cba31ce7f7a.png" width="200" height="200">
 
 Motor Driver - IFX9201SGAUMA1 [Found on Digikey](https://www.digikey.com/en/products/detail/infineon-technologies/IFX9201SGAUMA1/5415542)
 
-![IFX9201SGAUMA1](https://user-images.githubusercontent.com/102606124/221481985-f09361f5-76eb-44bf-9022-381ef95a5b04.png)
-
-<img src="" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/102606124/221481985-f09361f5-76eb-44bf-9022-381ef95a5b04.png" width="200" height="200">
 
 Motors - 12SG-N20VA [Found on RobotShop](https://www.robotshop.com/products/3v-1001-micro-metal-gearmotor-77rpm?gclid=Cj0KCQiArsefBhCbARIsAP98hXSDu0w-45Optkd4sC3l0MZlbCK-X6YCTygz1RPMedzvn13zsovS0NEaAoAUEALw_wcB)
 

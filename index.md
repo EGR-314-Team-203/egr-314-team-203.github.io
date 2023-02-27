@@ -80,11 +80,10 @@ IMAGE
 IMAGE
 
 ## Presentations
-
 {% raw %} {% include youtube.html id="NVca4oIyfms" %}
 {% endraw %}
 
-{% include youtube.html id=”NVca4oIyfms” %}
+{% include youtube.html id="NVca4oIyfms" %}
 
 ## Appendices
 

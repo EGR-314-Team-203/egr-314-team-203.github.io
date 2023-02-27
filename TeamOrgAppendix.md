@@ -49,6 +49,16 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 
 # Meeting Schedule
 
+| **Time** | **Sunday** | **Monday** | **Wednesday** | **Saturday** |
+| --- | --- | --- | --- |
+| 11:00 | MA, MO, ZF, HK | | | |
+| 12:00 | MA, MO, ZF, HK | | | |
+| 1:00 | MA, MO, ZF, HK | MA, MO, ZF, HK | MA, MO, ZF, HK | MA, MO, ZF, HK |
+| 2:00 | MA, MO, ZF, HK | MA, MO, ZF, HK | MA, MO, ZF, HK1 | MA, MO, ZF, HK |
+| 3:00 | MA, MO, ZF, HK | | | MA, MO, ZF, HK |
+
+
+
 | **People** | **Abbreviation** | **Email** | **Phone** |
 | --- | --- | --- | --- |
 | Morgan | MS | mlstrube@asu.edu | 480-244-1508 |
@@ -68,10 +78,6 @@ Team 203 plans to be able to create an efficient and affordable weather station 
 1. There will be an ahead of time "deadline" for the team to finish the assignment if it is one that is worked on at various times by each member. Then, to ensure that it is submitted, whoever is the one to do so will send a confirmation screenshot in the group chat to let everyone know that it was indeed submitted.
 2. When assigning tasks, the team usually volunteers for what they feel comfortable in doing, otherwise the task is worked between at least two people to ensure it is done correctly and everyone learns how to do this task. If no one knows how to complete something, or does not have any knowledge of it, the team will all go into office hours to learn more about it.
 3. The team plans to meet when feedback is given out to go over it and add the corrections right after it is given. We all have learned from last semester to not wait to apply the corrections last minute, as it helps other assignments be completed with more ease.
-
-#
-
-#
 
 # Signatures
 

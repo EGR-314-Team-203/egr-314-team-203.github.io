@@ -109,6 +109,10 @@ Motor Driver - IFX9201SGAUMA1 [Found on Digikey](https://www.digikey.com/en/prod
 
 ![IFX9201SGAUMA1](https://user-images.githubusercontent.com/102606124/221481985-f09361f5-76eb-44bf-9022-381ef95a5b04.png)
 
+Motors - 12SG-N20VA [Found on RobotShop](https://www.robotshop.com/products/3v-1001-micro-metal-gearmotor-77rpm?gclid=Cj0KCQiArsefBhCbARIsAP98hXSDu0w-45Optkd4sC3l0MZlbCK-X6YCTygz1RPMedzvn13zsovS0NEaAoAUEALw_wcB)
+
+![12SG-N20VA](https://user-images.githubusercontent.com/102606124/221486272-bac0162a-c0cf-4e14-9c0c-af7d522646a0.png)
+
 LED (Green) - LTST-C230KGKT [Found on Digikey](https://www.digikey.com/en/products/detail/liteon/LTST-C230KGKT/386855)
 
 For diagnosing subcircuits.

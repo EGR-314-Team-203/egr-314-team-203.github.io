@@ -5,7 +5,7 @@ _EGR 314 Spring 2023 Dr Aukes_
 
 _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 
-_23 January 2023_
+_Spring 2023_
 
 ## Table of Contents
 - [Team Organization](#team-organization)

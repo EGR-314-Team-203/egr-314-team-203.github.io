@@ -77,7 +77,7 @@ IMAGE
 ### Diagram Overview
 Each team member was given the task of generating 25 ideas that encompassed at least one of the design requirements. The ideas were posted to a jamboard allowing the team to take inspiration from each other. Members then organized the ideas into catgories and ranked them. The top 3 design concepts were democratically chosen and created into vector drawings.
 ### Current Diagram
-[iusometric](https://user-images.githubusercontent.com/102606124/221479887-fba18b4c-3a36-42f1-9a6c-d595ab3f7701.png)
+![iusometric](https://user-images.githubusercontent.com/102606124/221479887-fba18b4c-3a36-42f1-9a6c-d595ab3f7701.png)
 ![front view](https://user-images.githubusercontent.com/102606124/221479923-78639269-5772-47d8-9e8b-b58492deadcf.png)
 ![isometric 2](https://user-images.githubusercontent.com/102606124/221479935-c131f233-4533-42be-8c86-c77b6e0d7c8f.png)
 ![pump](https://user-images.githubusercontent.com/102606124/221479957-b1fd4633-c440-4840-8915-d22d798f1e63.png)

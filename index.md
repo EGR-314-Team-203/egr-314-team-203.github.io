@@ -171,3 +171,7 @@ Below is a diagram of how the software should run on the microcontroller and sub
 ### [Appendix B: User Needs, Benchmarking, and Requirements](/UserNeedsAppendix)
 
 ### [Appendix C: Design Ideation](/DesignIdeaAppendix)
+
+### [Appendix D: Microcontroller Selection](/DesignIdeaAppendix)
+
+### [Appendix E: Design Ideation](/DesignIdeaAppendix)

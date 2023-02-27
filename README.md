@@ -23,7 +23,7 @@ _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 ### User Needs, Benchmarking, and Requirements	
 - Update to reflect any new knowledge you have gained in user needs, other competitive products, or changes in your project direction.
 - Update the product requirements section of your report to match your team's current design. Eliminate aspects that no longer apply, and create new design aspects as needed to match the current direction you are working in. We will be looking for consistency with your block diagram, components selected, schematic, power budget, and software proposal.
-### Design Ideation [HASAN IS DOING THIS]
+### Design Ideation [HASAN DONE]
 - Update based on feedback received both from the initial submission and checkpoint 1. No specific action items are required, but continue to add detail based on feedback received
 ### Selected Design (new)	
 -Include a short summary of the decision-making process your team used to pick one of the team's design concepts. Did you further combine good ideas from your design ideation? Did you select the best? How was the decision made? If the selected design deviates significantly from the design ideation section, please explain the process by which you updated it.

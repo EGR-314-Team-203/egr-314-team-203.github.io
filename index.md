@@ -163,11 +163,11 @@ Including each team member's individual schematioc and combining them together w
 
 <img src="https://user-images.githubusercontent.com/102606124/221492264-6cd2ee63-9c69-4a47-ab66-4fbc73bb19aa.png" width="800" height="700">
 
-A .pdf version of this schematic can also be downloaded in Appendix [NAME]
+A .pdf version of this schematic can also be downloaded in [Appendix E](/HardwarePropAppendix)
 
 
 ### Bill of Materials
-For the team's most recent version of the Bill of Materials, it can be found in Appendix
+For the team's most recent version of the Bill of Materials, it can be found in [Appendix E](/HardwarePropAppendix)
 
 ## Software Proposal
 Below is a diagram of how the software should run on the microcontroller and subcircuits. The goal is to have the box lid open if the moisture sensor or temperature sensor detects a value that is higher than the user set. This will tell the microcontroller to trigger the motors to open the lid to keeps the plants in an ideal environment.

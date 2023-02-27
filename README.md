@@ -15,8 +15,10 @@ _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 - Add a table of contents & table of figures.
 - Show only the first two heading levels in your TOC to minimize the space required for the TOC
 -  [COMPLETED ZF] Please ensure your checkpoint 1 video presentation is embedded in your report front page. You can use youtube's sharing tools to embed html directly. 
-- Introduction	Add an introduction Consider moving and updating the introduction from your product requirements document to the front of the report
-- Team Organization	Use formatting to highlight the mission statement and charter from the surrounding paragraphs so we can identify it easily
+### Introduction	
+- Add an introduction Consider moving and updating the introduction from your product requirements document to the front of the report
+### Team Organization
+- Use formatting to highlight the mission statement and charter from the surrounding paragraphs so we can identify it easily
 ### User Needs, Benchmarking, and Requirements	
 - Update to reflect any new knowledge you have gained in user needs, other competitive products, or changes in your project direction.
 - Update the product requirements section of your report to match your team's current design. Eliminate aspects that no longer apply, and create new design aspects as needed to match the current direction you are working in. We will be looking for consistency with your block diagram, components selected, schematic, power budget, and software proposal.

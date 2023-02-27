@@ -12,16 +12,16 @@ _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 _23 January 2023_
 
 ## Table of Contents
-* [Team Organization](#team-organization)
-* [User Needs, Benchmarking, and Requirements](#User-Needs-Benchmarking-and-Requirements)
-* [Design Ideation](#design-ideation)
-* [Selected Design](#selected-design)
-* [Block Diagram](#block-diagram)
-* [Component Selection](#component-selection)
-* [Hardware Proposal](#hardware-proposal)
-* [Software Proposal](#software-proposal)
-* [Presentations](#presentations)
-* [Appendices](#appendices)
+[Team Organization](#team-organization)
+[User Needs, Benchmarking, and Requirements](#User Needs, Benchmarking, and Requirements)
+[Design Ideation](#design-ideation)
+[Selected Design](#selected-design)
+[Block Diagram](#block-diagram)
+[Component Selection](#component-selection)
+[Hardware Proposal](#hardware-proposal)
+[Software Proposal](#software-proposal)
+[Presentations](#presentations)
+[Appendices](#appendices)
 
 ## Team Organization
 
@@ -91,8 +91,15 @@ IMAGE
 ## Component Selection
 ### Selection Overview
 
-### Current Diagram
-IMAGE
+### Chosen Parts
+Temperature Sensor - LM75BD [Found on Digikey](https://www.digikey.com/en/products/detail/umw/LM75BD/16842174?utm_adgroup=Temperature%20Sensors%20-%20NTC%20Thermistors&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Sensors%2C%20Transducers_NEW&utm_term=&utm_content=Temperature%20Sensors%20-%20NTC%20Thermistors&gclid=Cj0KCQiAorKfBhC0ARIsAHDzslv9GIfb93bmvJccUv8R-opUv7Dptezt21sXMPO6fPWY4PgNtWwrrqsaAhLVEALw_wcB)
+![LM75BD](https://user-images.githubusercontent.com/102606124/221481217-12a9fd89-28cb-4715-8789-5646c556436f.png)
+
+Humdity Sensor - HIH6030-000-001[Found on Digikey](https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6030-000-001/4440787)
+![HIH6030-000-001](https://user-images.githubusercontent.com/102606124/221481478-40137153-dce3-425e-bed4-81e7c9ca116c.png)
+
+Switching Regulator - AZ34063UMTR-G1 [Found on Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007)
+![AZ34063UMTR-G1](https://user-images.githubusercontent.com/102606124/221481650-23a2d1ce-d08e-4acd-8e0a-5cba31ce7f7a.png)
 
 ## Hardware Proposal
 

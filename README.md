@@ -30,6 +30,6 @@ _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 ### Hardware Proposal	
 - Included in this section is the most recent version of the team's schematic. Combining all subystems onto one page and any other team based ideas, this will be the starting point to the teams printed circuit board
 - As well, the team's completed Bill of Materials and total cost is added. 
-- 
+
 ### Software Proposal	
 - The most recently updated software diagram is included in this section and creates an overview as to how the code will function with all of the subsystems.

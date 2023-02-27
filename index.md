@@ -30,6 +30,7 @@ _Spring 2023_
 - [Chosen Parts](#chosen-parts)
 - [Power Budget](#power-budget)
 - [Schematic](#schematic)
+- [Software Proposal Diagram](#software-proposal)
 
 
 ## Team Organization

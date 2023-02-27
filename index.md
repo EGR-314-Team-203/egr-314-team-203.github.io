@@ -82,6 +82,10 @@ IMAGE
 ### Current Diagram
 IMAGE
 
+## Hardware Proposal
+
+## Software Proposal
+
 ## Presentations
 {% raw %} {% include youtube.html id="NVca4oIyfms" %}
 {% endraw %}

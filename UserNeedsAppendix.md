@@ -1,4 +1,4 @@
-title: User Needs, Benchmarking, and Requirements
+# User Needs, Benchmarking, and Requirements
 
 EGR 314 - 12:00 pm Section
 
@@ -7,9 +7,9 @@ Team 203
 Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 
 
-# Online Product Search
+## Online Product Search
 
-## Product Result #1
+### Product Result #1
 
 [Sainlogic Wireless Weather Station](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_11?crid=2TSI65VXWDF7G&keywords=weather+controlled+kit&qid=1674013930&sprefix=weather+controlled+kit%2Caps%2C127&sr=8-11)
 
@@ -25,12 +25,10 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 |"This product is simple to set up and install and requires almost no maintenance, except for occasionally removing the rain gauge to clean out debris. It worked non stop in perfect condition 24/7" | The device is user friendly. (Explicit) Able to withstand extreme weather. (Explicit) Easy access to be able to clean. (Explicit) | "The outside reader quit working altogether in just 2 months or so. I took it apart to see if it could be fixed. The unit was full of ants and the circuit board was already turning green from corrosion in spots." | Device needs to work for the long run (Explicit) Withstand the environment and its friends. (Latent) Weather coating on the circuitry or more protection. (Explicit) |
 | "It works wirelessly, uses battery backup, as a bright screen that's not too large and easy to see." | Wireless control from anywhere.(Explicit) The screen is bright enough to see outside under the sun.(Latent) The device has a reliable battery. (Explicit) | "Went up quick, bright display, easy to set the time, etc. Would have given 5 stars except the batteries in the outdoor unit will be very difficult to replace while on the roof. " | Device needs to be inclusive to all for upkeep. (Latent) User friendly setup and installation. (Explicit) Device works on real time. (Explicit) |
 
-##
 
+### Product Result #2
 
-## Product Result #2
-
-### Zynect Thermote Wireless Remote Temperature Sensor
+#### Zynect Thermote Wireless Remote Temperature Sensor
 
 | ![](RackMultipart20230227-1-hy4h48_html_5e9ecdf8f213b8fc.png) |
 | --- |
@@ -44,7 +42,7 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 | "Purchased this to hardwire the probe into my hot tub for wireless monitoring. It doesn't give live updates and when the time is set to retrieve its update the device never actually does it until you use the magnet to reset it. Absolute waste of time. I returned it." | [Explicit] Device is able to give up-to-date information to user. | [Latent] Device can give live updates automatically. | "The Thermote is very durable. I leave it outside to monitor the temperature of my garden. It has been rained on and covered in dirt and it still works great. Would recommend it for those who need it for outdoor use."
 | [Explicit] Device is durable, especially in outdoor conditions. | "used to monitor my outdoor boiler. Worked great for about half a season. Went to change batteries this year, and it wont come back on. Even following the instructions, as well as one can when they've been translated a few times, and troubleshooting guide, its an expensive goner." | [Latent] Device is able to last for an extended duration and/or be maintained for long periods of time. | [Explicit] Device is able to work with a battery change. |
 
-## Product Result #3
+### Product Result #3
 
 | ![](RackMultipart20230227-1-hy4h48_html_5e916353f313b0e6.png) |
 | --- |
@@ -61,18 +59,10 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 | The device has a reliable battery. (Explicit) | [Latent] Device is able to last for an extended duration and/or be maintained for long periods of time. | "It's everything Tempest advertises. Truly 5 mins to set up. App is superb. Connection to Alexa is easy (most important feature for me). Durable. The solar power feature is excellent. Low profile with no extraneous parts, like vanes. I replaced my SainLogic with this one. I'm buying another for my vacation home. This is the real deal!" | [Explicit] Device has clear instructions on how to install. |
 | [Explicit] The device has multiple functions and is very accessible. | "Lasted about a year then quit powering up. Solar power is a joke. The wind is a joke and the rain is a joke. Don't waste your money. Get a Acurite or Ambient Station." | [Latent] The device has a longer lifetime. | N?A |
 
-##
 
+### Product Result #4
 
-##
-
-
-##
-
-
-## Product Result #4
-
-### HOBO temperature/relative humidity data logger
+#### HOBO temperature/relative humidity data logger
 
 | ![](RackMultipart20230227-1-hy4h48_html_a72d9db60b67d8da.png) |
 | --- |
@@ -94,12 +84,9 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 | "This logger is very easy to use and read" | [Explicit] Simple user interface.
  | "There is no open source software that will work with it as far as I am aware." | [Latent] Device needs cross-compatibility for third party software. |
 
-##
+### Product Result #5
 
-
-## Product Result #5
-
-### Logia 7-in-1 Wi-Fi Weather Station
+#### Logia 7-in-1 Wi-Fi Weather Station
 
 | ![](RackMultipart20230227-1-hy4h48_html_502d9ed27e077117.png) |
 | --- |
@@ -117,10 +104,7 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 | "Very impressed with the operation and apparent accuracy. The display can easily be seen across the room. Connection to wifi and Wunderground Weather was not too difficult and is a great asset for accumulating past data." | [Latent] The device has a guided installation process that the user can follow.
 [Explicit] The device has multiple functions and is very accessible. | "This device uses too many different batteries and the moving parts stick so you don't get accurate readings.Will not purchase this again not recommended to anyone" | [Explicit] Device can rely on one (or just a few) power sources. |
 
-#
-
-
-# **Generated User Needs List**
+## **Generated User Needs List**
 
 1. [Explicit] Device can be accessed remotely (via mobile device).
 2. [Latent] Device producers are able to provide customer support.
@@ -183,26 +167,24 @@ Zachary Felty, Madison Hedges, Hasan Kaysan, Morgan Strube
 59. The device can alert the user of extreme weather conditions.
 60. The device can connect to local weather forecasts and warn of potentially extreme/dangerous weather.
 
-#
 
-
-# **User Needs Jamboard**
+## **User Needs Jamboard**
 
 [https://jamboard.google.com/d/1pPf0Uf\_efi1GSkFu9nGHTbXXL9\_WU1\_ztjcG3wnTeOg/edit?usp=sharing](https://jamboard.google.com/d/1pPf0Uf_efi1GSkFu9nGHTbXXL9_WU1_ztjcG3wnTeOg/edit?usp=sharing)
 
-## 60 Unorganized User Needs
+### 60 Unorganized User Needs
 
 ![](RackMultipart20230227-1-hy4h48_html_1aab86028886b451.png)
 
-## Categorized User Needs
+### Categorized User Needs
 
-## ![](RackMultipart20230227-1-hy4h48_html_52e83ea06f27f2b5.png)
+### ![](RackMultipart20230227-1-hy4h48_html_52e83ea06f27f2b5.png)
 
-## Ranked User Needs
+### Ranked User Needs
 
-## ![](RackMultipart20230227-1-hy4h48_html_9825a0232925f3f7.png)
+### ![](RackMultipart20230227-1-hy4h48_html_9825a0232925f3f7.png)
 
-## Compiled User Needs List (In no particular order)
+### Compiled User Needs List (In no particular order)
 
 1. Device can be accessed remotely (via mobile device).
 2. Device producers are able to provide customer support.

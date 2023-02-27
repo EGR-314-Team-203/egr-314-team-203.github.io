@@ -95,8 +95,7 @@ The team chose Design Concept 3 - The Plant Health Music Alarm for our chosen de
 The current design that the team has gone with has been updated to allow more room for electronics and a new exterior design improvement. The design will provide a safe area for the electronics that is out of the way of the irrigation and has an easy accessible point. The exterior was altered with holes to allow more air flow in the box. Although the team wants to be able to control the environment as much as possible, without a fan or air flow in the box, there would be more challenges with keeping the plats alive.
 ### Current Design
 
-| <img src="https://user-images.githubusercontent.com/102606124/221485566-40540cdb-7dee-4ba6-af0f-6db130d171c5.png" width="200" height="200"> | <img src="https://user-images.githubusercontent.com/102606124/221485631-a41c417c-2198-4910-8cc5-b3ef16f0d64d.png" width="200" height="200"> |
-| <img src="https://user-images.githubusercontent.com/102606124/221485683-155c04ad-5f95-44d1-a467-f783565ef965.png" width="200" height="200"> | <img src="https://user-images.githubusercontent.com/102606124/221485689-aefa0a6b-97d9-4726-ab54-31a1b70612d9.png" width="200" height="200"> |
+<img src="https://user-images.githubusercontent.com/102606124/221485566-40540cdb-7dee-4ba6-af0f-6db130d171c5.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/102606124/221485631-a41c417c-2198-4910-8cc5-b3ef16f0d64d.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/102606124/221485683-155c04ad-5f95-44d1-a467-f783565ef965.png" width="200" height="200"> <img src="https://user-images.githubusercontent.com/102606124/221485689-aefa0a6b-97d9-4726-ab54-31a1b70612d9.png" width="200" height="200">
 
 ## Block Diagram
 ### Diagram Overview

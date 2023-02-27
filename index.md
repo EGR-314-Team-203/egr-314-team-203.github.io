@@ -129,6 +129,11 @@ For providing artificial light to the plants in the contained environment.
 
 ![FIT0563](https://user-images.githubusercontent.com/102606124/221482484-3cac8b8b-0ea3-4493-9297-5ebb1dc6fa6a.png)
 
+Microcontroller - PIC18F27Q84 [Found on Digikey](https://www.digikey.com/en/products/detail/microchip-technology/PIC18F27Q84T-I-SS/12807268)
+
+![PIC18F27Q84](https://user-images.githubusercontent.com/102606124/221489314-4aaf85d0-613e-440b-a003-dd4436a1df9d.png)
+
+
 ## Hardware Proposal
 
 ## Software Proposal

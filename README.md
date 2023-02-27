@@ -10,8 +10,8 @@ _Madi Hedges, Morgan Strube, Zachary Felty, Hasan Kaysan_
 - Show only the first two heading levels in your TOC to minimize the space required for the TOC
 -  [COMPLETED ZF] Please ensure your checkpoint 1 video presentation is embedded in your report front page. You can use youtube's sharing tools to embed html directly. 
 ### Introduction	
-- Add an introduction 
-- Consider moving and updating the introduction from your product requirements document to the front of the report
+- This semester, the EGR 314 (Embedded Systems Design) class is focusing on weather-related measurements. All teams are tasked with creating a deliverable product that, in some sense, measures and responds to the environment around it. Our team, Team 203, is creating a plant environment box that measure the temperature and humidity within a contained planter that can adjust watering and the lid movement in order to help the plant thrive in the best conditions.
+
 ### Team Organization
 - Use formatting to highlight the mission statement and charter from the surrounding paragraphs so we can identify it easily
 ### User Needs, Benchmarking, and Requirements	

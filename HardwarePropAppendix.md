@@ -7,7 +7,8 @@ title: Hardware Proposal
 ## Team Schematic
 Below is a schematic of each teammate's subsystem, combined into our final product.
 
-![team schemmy](https://user-images.githubusercontent.com/102606124/221491268-e1341ab0-f48e-4cf3-a497-7d849c463b5b.png)
+![image (13)](https://user-images.githubusercontent.com/102606124/224888126-2e1c4571-6df1-4831-94d6-0ff50f5faafa.png)
+
 
 Additionally, this can be viewed as a .pdf
 

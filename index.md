@@ -105,7 +105,7 @@ The current design that the team has gone with has been updated to allow more ro
 Each team member was given the task of generating 25 ideas that encompassed at least one of the design requirements. The ideas were posted to a jamboard allowing the team to take inspiration from each other. Members then organized the ideas into catgories and ranked them. The top 3 design concepts were democratically chosen and created into vector drawings.
 ### Current Diagram
 
-<img src="https://user-images.githubusercontent.com/102606124/235012670-d0bd4ed6-028c-4825-96a5-9dfb1ea8b307.jpg" width="1000">
+<img src="https://user-images.githubusercontent.com/102606124/235012670-d0bd4ed6-028c-4825-96a5-9dfb1ea8b307.jpg" width="800">
 
 ## Component Selection
 ### Selection Overview

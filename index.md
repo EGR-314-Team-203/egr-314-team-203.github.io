@@ -98,14 +98,14 @@ The team chose Design Concept 3 - The Plant Health Music Alarm for our chosen de
 
 The current design that the team has gone with has been updated to allow more room for electronics and a new exterior design improvement. The design will provide a safe area for the electronics that is out of the way of the irrigation and has an easy accessible point. The exterior was altered with holes to allow more air flow in the box. Although the team wants to be able to control the environment as much as possible, without a fan or air flow in the box, there would be more challenges with keeping the plants alive.
 ### Current Design
-<img src="https://user-images.githubusercontent.com/102606124/224888331-39c68bb7-334e-4983-ab2b-893d13ff3c94.png" width="1000" />
+<img src="https://user-images.githubusercontent.com/102606124/224888331-39c68bb7-334e-4983-ab2b-893d13ff3c94.png" width="5000" />
 
 ## Block Diagram
 ### Diagram Overview
 Each team member was given the task of generating 25 ideas that encompassed at least one of the design requirements. The ideas were posted to a jamboard allowing the team to take inspiration from each other. Members then organized the ideas into catgories and ranked them. The top 3 design concepts were democratically chosen and created into vector drawings.
 ### Current Diagram
 
-<img src="https://user-images.githubusercontent.com/102606124/221485012-f229a9d3-714c-4173-8c21-c358432b3d4b.png" width="1000" height="500">
+<img src="https://user-images.githubusercontent.com/102606124/221485012-f229a9d3-714c-4173-8c21-c358432b3d4b.png" width="1000">
 
 ## Component Selection
 ### Selection Overview

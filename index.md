@@ -149,8 +149,6 @@ Below is a diagram of how the software should run on the microcontroller and sub
 
 
 ## Presentations
-{% raw %} {% include youtube.html id="NVca4oIyfms" %}
-{% endraw %}
 
 {% include youtube.html id="NVca4oIyfms" %}
 

@@ -121,16 +121,9 @@ To make a well-rounded product that does its job, as well as completes class req
 |<img src="https://user-images.githubusercontent.com/102606124/221486272-bac0162a-c0cf-4e14-9c0c-af7d522646a0.png" width="100">|Motors - 12SG-N20VA|[RobotShop](https://www.robotshop.com/products/3v-1001-micro-metal-gearmotor-77rpm?gclid=Cj0KCQiArsefBhCbARIsAP98hXSDu0w-45Optkd4sC3l0MZlbCK-X6YCTygz1RPMedzvn13zsovS0NEaAoAUEALw_wcB)|A motor is used in order to push the top of the plant box open so that the plants inside can get fresh air.|
 |<img src="https://user-images.githubusercontent.com/102606124/221482152-89d21a39-7167-4e0b-88a4-dddbbbc30947.png" width="100">|LED (Green) - LTST-C230KGKT| [Digikey](https://www.digikey.com/en/products/detail/liteon/LTST-C230KGKT/386855)|Used for diagnosing power and subsystems.| 
 |<img src="https://user-images.githubusercontent.com/102606124/221482300-cab08df1-ea34-4f6a-a94d-a1c95b04632d.png" width="100">|LED Strip - 4851|[Digikey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/4851/13688273)|For providing artificial light to the plants in the contained environment.|
+|<img src="https://user-images.githubusercontent.com/102606124/221482484-3cac8b8b-0ea3-4493-9297-5ebb1dc6fa6a.png" width="100">|6V Water Pump - FIT0563| [Digikey](https://www.digikey.com/en/products/detail/dfrobot/FIT0563/8827828)|If the humidity drops too low (threshold set by the user), the plants will be watered with this pump.|
+|<img src="https://user-images.githubusercontent.com/102606124/221489314-4aaf85d0-613e-440b-a003-dd4436a1df9d.png" width="100">|Microcontroller - PIC18F27Q84| [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/PIC18F27Q84T-I-SS/12807268)|The microcontroller that will guide all of the subsystems.|
 
-
-
-6V Water Pump - FIT0563 [Found on Digikey](https://www.digikey.com/en/products/detail/dfrobot/FIT0563/8827828)
-
-<img src="https://user-images.githubusercontent.com/102606124/221482484-3cac8b8b-0ea3-4493-9297-5ebb1dc6fa6a.png" width="200" height="200">
-
-Microcontroller - PIC18F27Q84 [Found on Digikey](https://www.digikey.com/en/products/detail/microchip-technology/PIC18F27Q84T-I-SS/12807268)
-
-<img src="https://user-images.githubusercontent.com/102606124/221489314-4aaf85d0-613e-440b-a003-dd4436a1df9d.png" width="200" height="200">
 
 
 ### Power Budget

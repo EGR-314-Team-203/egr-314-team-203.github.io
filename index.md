@@ -163,3 +163,5 @@ Below is a diagram of how the software should run on the microcontroller and sub
 ### [Appendix D: Microcontroller Selection](/MicrocontrollerAppendix)
 
 ### [Appendix E: Hardware Proposal](/HardwarePropAppendix)
+
+### [Appendix F: MPLab X Code](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/77aa5cd9665eb4512a003b4acd0a4712d490abf2/mplab_code)

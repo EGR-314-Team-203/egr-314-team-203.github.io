@@ -133,7 +133,7 @@ To make a well-rounded product that does its job, as well as completes class req
 |<img src="https://user-images.githubusercontent.com/102606124/235524684-5fb4d76d-bdb7-4db9-9ddf-be671577aa09.png" width="100">|1000 UH Inductor - 744373965101|[Digikey](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/744373965101/7323643)|Used in the voltage regulating section of the PCB.|
 |<img src="https://user-images.githubusercontent.com/102606124/235525387-e48742af-181f-4dc9-8ae3-0ae0098d3484.png" width="100">|Shottky Diode - B340B-13-F|[Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/B340B-13-F/768869)|Used in the voltage regulating section of the PCB; lets current flow only one-way.|
 |<img src="https://user-images.githubusercontent.com/102606124/235525476-6bf8a7ad-8ab1-45c5-a361-8e394feba77b.png" width="100">|Barrel Jack - RAPC722X|[Digikey](https://www.digikey.com/en/products/detail/switchcraft-inc/RAPC722X/804747)|Allows power from a wall plug to be put onto the PCB.|
-|<img src="https://user-images.githubusercontent.com/102606124/235525990-060b31fc-3edc-4e50-805b-51099a16f2bf.png" width="100">||[Digikey](https://www.digikey.com/en/products/detail/littelfuse-inc/05200101Z/554336)|Protects the PCB from a power surge.|
+|<img src="https://user-images.githubusercontent.com/102606124/235525990-060b31fc-3edc-4e50-805b-51099a16f2bf.png" width="100">|Fuse Holder - 05200101Z|[Digikey](https://www.digikey.com/en/products/detail/littelfuse-inc/05200101Z/554336)|Protects the PCB from a power surge.|
 
 ### Power Budget
 In order to ensure that all systems can be used, a power budget was created. This power budget ensures we have all aspects (voltage, Amps, etc.) to power each part of our system.

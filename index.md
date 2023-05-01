@@ -112,9 +112,10 @@ Each team member was given the task of generating 25 ideas that encompassed at l
 To make a well-rounded product that does its job, as well as completes class requirements, certain components were selected. Specific parts must be surface-mount in order to be placed on a PCB, but other parts (such as the LED strip) are optional and are used for aesthetics, debugging, etc.
 
 ### Chosen Parts
-|---|---|---|---|
+
 | Image        | Part           | Found On      | Description |
 | :---         |  :---          |  :---         | :---        |
+
 | <img src="https://user-images.githubusercontent.com/102606124/221481217-12a9fd89-28cb-4715-8789-5646c556436f.png" width="100">|Temperature Sensor - LM75BD| [Digikey](https://www.digikey.com/en/products/detail/umw/LM75BD/16842174?utm_adgroup=Temperature%20Sensors%20-%20NTC%20Thermistors&utm_source=google&utm_medium=cpc&utm_campaign=Shopping_Product_Sensors%2C%20Transducers_NEW&utm_term=&utm_content=Temperature%20Sensors%20-%20NTC%20Thermistors&gclid=Cj0KCQiAorKfBhC0ARIsAHDzslv9GIfb93bmvJccUv8R-opUv7Dptezt21sXMPO6fPWY4PgNtWwrrqsaAhLVEALw_wcB)|Used to measure temperature within the closed box environment|
 | <img src="https://user-images.githubusercontent.com/102606124/221481478-40137153-dce3-425e-bed4-81e7c9ca116c.png" width="100">|Humdity Sensor - HIH6030-000-001|[Digikey](https://www.digikey.com/en/products/detail/honeywell-sensing-and-productivity-solutions/HIH6030-000-001/4440787)|For monitoring moisture in the closed environment, ideal humidity is set by user. If it becomes to humid, the box lid will open to get the plants some fresh air.|
 |<img src="https://user-images.githubusercontent.com/102606124/221481650-23a2d1ce-d08e-4acd-8e0a-5cba31ce7f7a.png" width="100">|Switching Regulator - AZ34063UMTR-G1|[Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/AZ34063UMTR-G1/4471007)|Used to regulate voltage going to the other parts.|

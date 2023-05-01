@@ -173,6 +173,6 @@ Below is a diagram of how the software should run on the microcontroller and sub
 
 ### [Appendix E: Hardware Proposal](/Appendices/HardwarePropAppendix)
 
-### [Appendix F: MPLab X Code](/Appendices/Code/)
+### [Appendix F: MPLab X Code](/Appendices/Code/mplab_code)
 
-### [Appendix G: ESP32 Code](/)
+### [Appendix G: ESP32 Code](/Appendices/Code/ESP32 Code)

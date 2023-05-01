@@ -1,3 +1,7 @@
+---
+title: Hardware Proposal
+---
+
 # Hardware Proposal
 
 ## Team Schematic

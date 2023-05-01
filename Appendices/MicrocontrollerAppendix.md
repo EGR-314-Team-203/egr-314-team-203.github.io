@@ -1,3 +1,8 @@
+---
+title: Microcontroller Selection
+---
+
+
 # Microcontroller Selection
 
 We needed to choose a Microchip microcontroller that was capable of controlling all of our subsystems and in different communication formats (i.e. SPI and I2C). After careful selection, we have chosen the PIC18F27Q84.

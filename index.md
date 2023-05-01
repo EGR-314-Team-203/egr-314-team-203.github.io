@@ -159,8 +159,7 @@ Below is a diagram of how the software should run on the microcontroller and sub
 
 ## Presentations
 
- For Checkpoint 1, look here [link to appendix with video]
-{% include youtube.html id="NVca4oIyfms" %}
+ [For Checkpoint 1, look here](link to appendix with video)
  
 ## Lessons Learned
  

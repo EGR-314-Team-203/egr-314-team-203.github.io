@@ -1,5 +1,14 @@
-(Need Formatting for this)
-
+/*PIN ALLOCATIONS
+RA0 - Debuggin LED
+RA4 - MTRCSN (Motor SS/GPIO pin)
+RB2- MTRSI (Motor serial in)
+RB3- MTRSCK (Motor clock)
+RC3 - SCLK (for both temp and humidity I2C)
+RC4 - SDA (I2C data for both temp & humidity)
+RC5 - MTRSL (Motor serial out)
+RC6 - RX (Receiving)
+RC7 - TX (Transmitting to ESP 32)
+*/
 
 #include "mcc_generated_files/mcc.h"
 #include "mcc_generated_files/examples/i2c1_master_example.h"
@@ -13,11 +22,17 @@ uint8_t dbuff[4];
 uint16_t conv = 0;
 double humidity = 0;
 
-//Interrupts with count
 volatile uint8_t words;
 int ii;
 float value;
 int count=0;
+
+    
+    //if (count%100==0)
+    //LED_Toggle();
+
+
+        
 
 void main(void) {
     
@@ -26,7 +41,7 @@ void main(void) {
    // UART1_Initialize();
   //  I2C1_InterruptHandler(I2C1_Read);
    
-    #define address 0b00011001000 //address for LM75b
+#define address 0b00011001000 //address for LM75b
 
 
     INTERRUPT_GlobalInterruptEnable();
@@ -70,8 +85,9 @@ void main(void) {
         temp = ((readtemp * 1.8) + 32); //convert to fahrenheit
         printf("hello! Temp = %u Humidity = %2u \n\r", temp, humidity);
         __delay_ms(500);
-  
-        //checking if the bidirectional communication works with this debugging led
+        
+        
+        
         if (temp = 75)
         {
             LED_SetHigh();

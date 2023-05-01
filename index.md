@@ -146,7 +146,7 @@ Including each team member's individual schematioc and combining them together w
 
 ![Team_203_FinalSchematic](https://user-images.githubusercontent.com/122824540/235548872-c151e3a7-c93a-46e8-9d67-03faaac35b3b.jpg)
 
-A .pdf version of this schematic can also be downloaded in [Appendix E](/HardwarePropAppendix)
+A .pdf version of this schematic can also be downloaded in [Appendix E](#Appendix-E:-Hardware-Proposal)
 
 ### User Needs and Requirements Satisfaction Implementation
 By focusing on the User Needs observed above, the team combined all of the necessary components that were able to focus on these needs, such as have an accessible power supply and easily readable data from your phone. Both the Humidity and Temperature sensor are both able to help provide necessary readings for the user to be able to see and measure any up to date information. From this, the motor is able to act accordingly to the measurements or the user's preferences. The Switching Voltage Regulator, Humidity and Temperature Sensor and the Motor Driver, all lay down in the project requirements, and were easily able to be implemented to the idea of the user being able to control the environment of set plants.

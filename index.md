@@ -154,11 +154,11 @@ Below is a diagram of how the software should run on the microcontroller and sub
 
 ## Appendices
 
-### [Appendix A: Team Organization](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/25f1d4c2f4276aa90a10b363fa321e056bdfb5aa/Appendices/DesignIdeaAppendix.md)
+### [Appendix A: Team Organization](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/ee0d50c74782377a760c082f4af7165023097ff0/Appendices/TeamOrgAppendix.mdd)
 
 ### [Appendix B: User Needs, Benchmarking, and Requirements](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/9f892744555e25363bef8f46fb5472c95920b04e/Appendices/UserNeedsAppendix.md)
 
-### [Appendix C: Design Ideation](/DesignIdeaAppendix)
+### [Appendix C: Design Ideation](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/96e9b3fb5aad2f5635b5a54520d0bd174cb9a760/Appendices/DesignIdeaAppendix.md)
 
 ### [Appendix D: Microcontroller Selection](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/9f892744555e25363bef8f46fb5472c95920b04e/Appendices/MicrocontrollerAppendix.md)
 

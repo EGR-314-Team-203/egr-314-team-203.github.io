@@ -129,11 +129,11 @@ To make a well-rounded product that does its job, as well as completes class req
 |<img src="https://user-images.githubusercontent.com/102606124/221482484-3cac8b8b-0ea3-4493-9297-5ebb1dc6fa6a.png" width="100">|6V Water Pump - FIT0563| [Digikey](https://www.digikey.com/en/products/detail/dfrobot/FIT0563/8827828)|If the humidity drops too low (threshold set by the user), the plants will be watered with this pump.|
 |<img src="https://user-images.githubusercontent.com/102606124/221489314-4aaf85d0-613e-440b-a003-dd4436a1df9d.png" width="100">|Microcontroller - PIC18F27Q84| [Digikey](https://www.digikey.com/en/products/detail/microchip-technology/PIC18F27Q84T-I-SS/12807268)|The microcontroller that will guide all of the subsystems.|
 |<image src="https://user-images.githubusercontent.com/102606124/235523386-c3d64512-8c01-4f88-ad40-bd2bc77e2a91.png" width="100">|9V to 3.3V Vaoltage Regulator - LM2576D2TR4-3.3G|[Digikey](https://www.digikey.com/en/products/detail/onsemi/LM2576D2TR4-3-3G/1476725)|Used for regulating the incoming 9V from the wall plug to the 3.3V parts.|
-|<image src="https://user-images.githubusercontent.com/102606124/235523773-170ba8d7-4195-4859-8064-db873d8da27a.png" width="100">|LED (Red)- SML-LXL1209SIC-TR|[Digikey](https://www.digikey.com/en/products/detail/lumex-opto-components-inc/SML-LXL1209SIC-TR/515913)|Used for diagnosing code and displaying temperature/humidity states.|
-|||||
-|||||
-|||||
-|||||
+|<img src="https://user-images.githubusercontent.com/102606124/235523773-170ba8d7-4195-4859-8064-db873d8da27a.png" width="100">|LED (Red)- SML-LXL1209SIC-TR|[Digikey](https://www.digikey.com/en/products/detail/lumex-opto-components-inc/SML-LXL1209SIC-TR/515913)|Used for diagnosing code and displaying temperature/humidity states.|
+|<img src="https://user-images.githubusercontent.com/102606124/235524684-5fb4d76d-bdb7-4db9-9ddf-be671577aa09.png" width="100">|1000 UH Inductor - 744373965101|[Digikey](https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/744373965101/7323643)|Used in the voltage regulating section of the PCB.|
+|<img src="https://user-images.githubusercontent.com/102606124/235525387-e48742af-181f-4dc9-8ae3-0ae0098d3484.png" width="100">|Shottky Diode - B340B-13-F|[Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/B340B-13-F/768869)|Used in the voltage regulating section of the PCB; lets current flow only one-way.|
+|<img src="https://user-images.githubusercontent.com/102606124/235525476-6bf8a7ad-8ab1-45c5-a361-8e394feba77b.png" width="100">|Barrel Jack - RAPC722X|[Digikey](https://www.digikey.com/en/products/detail/switchcraft-inc/RAPC722X/804747)|Allows power from a wall plug to be put onto the PCB.|
+|<img src="https://user-images.githubusercontent.com/102606124/235525990-060b31fc-3edc-4e50-805b-51099a16f2bf.png" width="100">||[Digikey](https://www.digikey.com/en/products/detail/littelfuse-inc/05200101Z/554336)|Protects the PCB from a power surge.|
 
 ### Power Budget
 In order to ensure that all systems can be used, a power budget was created. This power budget ensures we have all aspects (voltage, Amps, etc.) to power each part of our system.

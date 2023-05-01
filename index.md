@@ -154,7 +154,7 @@ Below is a diagram of how the software should run on the microcontroller and sub
 
 ## Appendices
 
-### [Appendix A: Team Organization](Appendices/DesignIdeaAppendix.md)
+### [Appendix A: Team Organization](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/25f1d4c2f4276aa90a10b363fa321e056bdfb5aa/Appendices/DesignIdeaAppendix.md)
 
 ### [Appendix B: User Needs, Benchmarking, and Requirements](/Appendices/UserNeedsAppendix.md)
 

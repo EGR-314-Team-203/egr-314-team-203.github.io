@@ -163,16 +163,16 @@ Below is a diagram of how the software should run on the microcontroller and sub
 
 ## Appendices
 
-### [Appendix A: Team Organization](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/ee0d50c74782377a760c082f4af7165023097ff0/Appendices/TeamOrgAppendix.mdd)
+### [Appendix A: Team Organization](/Appendices/TeamOrgAppendix)
 
-### [Appendix B: User Needs, Benchmarking, and Requirements](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/9f892744555e25363bef8f46fb5472c95920b04e/Appendices/UserNeedsAppendix.md)
+### [Appendix B: User Needs, Benchmarking, and Requirements](/Appendices/UserNeedsAppendix)
 
-### [Appendix C: Design Ideation](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/96e9b3fb5aad2f5635b5a54520d0bd174cb9a760/Appendices/DesignIdeaAppendix.md)
+### [Appendix C: Design Ideation](/Appendices/DesignIdeaAppendix)
 
-### [Appendix D: Microcontroller Selection](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/9f892744555e25363bef8f46fb5472c95920b04e/Appendices/MicrocontrollerAppendix.md)
+### [Appendix D: Microcontroller Selection](/Appendices/MicrocontrollerAppendix)
 
-### [Appendix E: Hardware Proposal](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/9f892744555e25363bef8f46fb5472c95920b04e/Appendices/HardwarePropAppendix.md)
+### [Appendix E: Hardware Proposal](/Appendices/HardwarePropAppendix)
 
-### [Appendix F: MPLab X Code](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/e2c781356b9846a5f15cc006817111e366cc5e7f/Appendices/Code/mplab_code)
+### [Appendix F: MPLab X Code](/Appendices/Code/)
 
-### [Appendix G: ESP32 Code](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/blob/e2c781356b9846a5f15cc006817111e366cc5e7f/Appendices/Code/ESP32_code)
+### [Appendix G: ESP32 Code](/)

@@ -162,13 +162,11 @@ Below is a diagram of how the software should run on the microcontroller and sub
 {% include youtube.html id="NVca4oIyfms" %}
 
  
- 
-##Lessons Learned
- 
+## Lessons Learned
  
  
-##Recommendations for Future Students
- skill issue
+ 
+## Recommendations for Future Students
  
  
  

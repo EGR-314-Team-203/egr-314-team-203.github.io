@@ -26,13 +26,9 @@ volatile uint8_t words;
 int ii;
 float value;
 int count=0;
-
-    
+ 
     //if (count%100==0)
     //LED_Toggle();
-
-
-        
 
 void main(void) {
     
@@ -43,10 +39,8 @@ void main(void) {
    
 #define address 0b00011001000 //address for LM75b
 
-
     INTERRUPT_GlobalInterruptEnable();
-    //INTERRUPT_PeripheralInterruptEnable();
-
+    //INTERRUPT_PeripheralInterruptEnable()
     
     while (1) {
 

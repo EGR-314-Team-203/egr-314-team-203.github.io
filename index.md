@@ -144,8 +144,8 @@ In order to ensure that all systems can be used, a power budget was created. Thi
 ### Schematic
 Including each team member's individual schematioc and combining them together with team based work components, this schematic is the most recently updated version is shown below.
 
+![Team_203_FinalSchematic](https://user-images.githubusercontent.com/122824540/235548807-5e00e9c2-4c66-487d-82ac-c72fb425ebde.jpg)
 
-[FINAL_Team203_Schematic (2).pdf](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/files/11368651/FINAL_Team203_Schematic.2.pdf)
 
 A .pdf version of this schematic can also be downloaded in [Appendix E](/HardwarePropAppendix)
 

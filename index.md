@@ -154,7 +154,7 @@ Below is a diagram of how the software should run on the microcontroller and sub
 
 ## Appendices
 
-### [Appendix A: Team Organization](/TeamOrgAppendix)
+### [Appendix A: Team Organization](/Appendices/TeamOrgAppendix)
 
 ### [Appendix B: User Needs, Benchmarking, and Requirements](/UserNeedsAppendix)
 

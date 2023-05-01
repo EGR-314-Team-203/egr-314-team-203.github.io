@@ -1,3 +1,7 @@
+---
+title: Team Organization
+---
+
 # Team Organization
 
 EGR 314 - 12:00 pm Section

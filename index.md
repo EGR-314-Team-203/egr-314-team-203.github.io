@@ -161,6 +161,12 @@ Below is a diagram of how the software should run on the microcontroller and sub
 
 {% include youtube.html id="NVca4oIyfms" %}
 
+##Lessons Learned
+ 
+ 
+##Recommendations for Future Students
+ skill issue
+ 
 ## Appendices
 
 ### [Appendix A: Team Organization](/Appendices/TeamOrgAppendix)

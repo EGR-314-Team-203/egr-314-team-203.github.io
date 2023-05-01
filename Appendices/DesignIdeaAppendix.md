@@ -1,7 +1,3 @@
----
-title: Design Ideation
----
-
 # Design Ideation
 
 ### Original Design Idea 1

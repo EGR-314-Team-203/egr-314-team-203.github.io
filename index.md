@@ -1,4 +1,4 @@
-# Team 203 Enviromental Conditioner
+# Team 203 Environmental Plant Box
 
  <link rel="shortcut icon" type="![favicon-16x16](https://user-images.githubusercontent.com/102606124/235522493-af700eea-23a7-40ff-aeed-17b66208cbc0.png)
 /x-icon" href="favicon.ico?">

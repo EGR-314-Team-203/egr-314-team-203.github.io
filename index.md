@@ -26,7 +26,7 @@ _Spring 2023_
 - [Selected Design](#selected-design)
 - [Block Diagram](#block-diagram)
 - [Component Selection](#component-selection)
-- [Hardware Proposal](#hardware-proposal)
+- [Hardware Implementation](#hardware-implementation)
 - [Software Proposal](#software-proposal)
 - [Presentations](#presentations)
 - [Appendices](#appendices)
@@ -140,7 +140,7 @@ In order to ensure that all systems can be used, a power budget was created. Thi
 
 <img src="https://user-images.githubusercontent.com/102606124/221492170-6a5ddf5d-8faa-487d-9b23-51a00a330cb4.png" width="800" height="700">
 
-## Hardware Proposal
+## Hardware Implementation
 ### Schematic
 Including each team member's individual schematioc and combining them together with team based work components, this schematic is the most recently updated version is shown below.
 
@@ -148,6 +148,22 @@ Including each team member's individual schematioc and combining them together w
 
 A .pdf version of this schematic can also be downloaded in [Appendix E](/HardwarePropAppendix)
 
+### User Needs and Requirements Satisfaction Implementation
+By focusing on the User Needs observed above, the team combined all of the necessary components that were able to focus on these needs, such as have an accessible power supply and easily readable data from your phone. Both the Humidity and Temperature sensor are both able to help provide necessary readings for the user to be able to see and measure any up to date information. From this, the motor is able to act accordingly to the measurements or the user's preferences. The Switching Voltage Regulator, Humidity and Temperature Sensor and the Motor Driver, all lay down in the project requirements, and were easily able to be implemented to the idea of the user being able to control the environment of set plants.
+ 
+ ### Design and Decision Making
+Majority of the decisions for the components are discussed in the Component Selection, of this page. When deciding which components ran off of I2C or SPI, the logical decision was to have the Humidity and Temperature sensors both I2C, as they will both be chained together and will both determine the actions of the motor driver, which was SPI. The ESP32 was assigned to work through UART, as this was what was done in class, through Thonny or Vscode. These decisions were able to help organize and decipher who was doing which subsystem from the requirements. 
+ 
+
+ ### Future Improvements
+ If the team had the chance to create a Version 2.0 of this design, a few ideas were put together on what the team could have implemented into a new board. There would be more debugging capabilities added to allow for an easier time to differentiate the sensors and motor driver. The board had 1 LED that was able to act as a debugging tool for the team, while the first communication tests were not working. This LED would be programmed to blink, be set high or low, and let the team know when either the Humidity or temperature sensor were reading specific values. Although the sensors were daisy chained to each other through the microcontroller, two separate LEDs would have sped up the process. 
+
+In addition, there were a few schematic changes, that did not affect the team's performance but would have allotted for a simpler and cleaner look on the board. The barrel jack was swapped out after the final schematic was submitted, causing the power pin to be oriented differently. The component was able to work, but had to be floating slightly to allow the plugin to come off the side of the board, and not directly across as the layout was set up. In addition, the capacitor and inductor correlating to the voltage regulator were directly causing alignment issues when programming the ESP32. Due to these components being so large, the ESP32 had to be taken off the board before being programmed.  
+
+Finally, as it can be seen in the schematic above, there was an incorrect trace on the Microcontroller for pins 19 and 20, that was missed before sending over to JLCPCB. After the board was delivered, the team identified the short and had to cut the trace out for the ground pin in order to be able to properly power the microcontroller. 
+
+Majority of these changes would not have altered the outcome of how the final project design turned out, but would have made the time taken to manage these little tasks, to lessen, so the team could focus on programming and debugging. 
+ 
 
 ### Bill of Materials
 For the team's most recent version of the Bill of Materials, it can be found in [Appendix E](/HardwarePropAppendix)

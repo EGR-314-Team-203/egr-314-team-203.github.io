@@ -1,5 +1,8 @@
 # Team 203 Enviromental Conditioner
 
+ <link rel="shortcut icon" type="![favicon-16x16](https://user-images.githubusercontent.com/102606124/235522493-af700eea-23a7-40ff-aeed-17b66208cbc0.png)
+/x-icon" href="favicon.ico?">
+
 _Arizona State University_
 
 _EGR 314 Spring 2023 Dr Aukes_

@@ -103,7 +103,7 @@ void main(void) {
         
     }
 ```
-# MCC Project Resources
-![314_Team203_MCCProjectResources](https://user-images.githubusercontent.com/122768743/235579401-6f80d1f1-dc6c-432d-b100-f53d68476496.png)
 # MCC Pin Module
 ![314_Team203_MCCPinModule](https://user-images.githubusercontent.com/122768743/235579427-530d6f79-9cfc-4b0c-ad51-6ad5708e5c24.png)
+# MCC Project Resources
+![314_Team203_MCCProjectResources](https://user-images.githubusercontent.com/122768743/235579401-6f80d1f1-dc6c-432d-b100-f53d68476496.png)

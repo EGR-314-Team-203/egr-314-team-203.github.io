@@ -201,7 +201,8 @@ Overall, the software implementation of this project was simplified more than wh
  [For Checkpoint 1, look here](link to appendix with video)
  
 ## Lessons Learned
- 
+ 1. Have the whole team look through not only their subsystem but each other's subsystem before submitting any PCB design
+ 2. 
  
  
 ## Recommendations for Future Students

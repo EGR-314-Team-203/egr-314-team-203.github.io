@@ -207,7 +207,7 @@ Overall, the software implementation of this project was simplified more than wh
 
 ## Presentations
 
- [For Checkpoint 1, look here](/Appendices/Images & Videos/PresentationVideoCHKPT1)
+ [For Checkpoint 1, look here](/Appendices/ImagesVideos/PresentationVideoCHKPT1)
  
 ## Lessons Learned
  1. The team needed everyone to look through not only their subsystem but each other's subsystem before submitting any PCB design.

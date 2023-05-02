@@ -1,5 +1,5 @@
 ---
-title: ESP32 Micropython
+title: ESP32
 ---
 
 

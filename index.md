@@ -235,5 +235,5 @@ Overall, the software implementation of this project was simplified more than wh
 
 ### [Appendix G: MPLab X Code](/Appendices/Code/mplab_code)
 
-### [Appendix H: ESP32 Code](/Appendices/Code/ESP32code/Micropython)
+### [Appendix H: ESP32 Code](/Appendices/Code/ESP32code)
 

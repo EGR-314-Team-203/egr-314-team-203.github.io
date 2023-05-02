@@ -138,7 +138,7 @@ To make a well-rounded product that does its job, as well as completes class req
 ### Power Budget
 In order to ensure that all systems can be used, a power budget was created. This power budget ensures we have all aspects (voltage, Amps, etc.) to power each part of our system.
  
-<img src="https://user-images.githubusercontent.com/122824540/235560686-243ce0ad-cd22-43a8-9022-b8910e97695e.jpg" width="600" height="500">
+<img src="https://user-images.githubusercontent.com/122824540/235560686-243ce0ad-cd22-43a8-9022-b8910e97695e.jpg" width="600" height="600">
 
 ## Final Hardware Implementation
 ### Schematic

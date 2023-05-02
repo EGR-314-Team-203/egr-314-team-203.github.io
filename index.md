@@ -191,6 +191,9 @@ In addition, the code could be divided up between what would happen in various s
 Additional peripherals that could be added is including the OLED screen and an extra fan. The OLED was worked on, and from class had been implemented, but due to timing reasons, the team was unable to add it into the final design. The extra fan idea was overlooked as it did not meet requirements for the project and was extra work the team would have had to focus on. This feature, however, could have helped change the conditions of the sensors faster, to not only be able to see an update, but also help improve the overall project idea of cooling down the environment inside. 
 
 Overall, the software implementation of this project was simplified more than what the project path could have taken, and what the team would have wanted. Due to technical issues with the motor driver, majority of the team was spent on debugging this rather than improving upon the code. If there were to be a version 2.0, the team had spoken about dividing sooner than later to have been able to work on the code more. 
+ 
+### MQTT Topic Table and Corresponding Code
+ The Topic Table can be found in [Appendix F](#Appendices) and the code for the project can be found in [Appendix G](#Appendices) and [Appendix H](#Appendices)
 
 ## System Verification
  Below is the final System Verification Table that is updated with each subsystem checked off by the Teaching Assistants. 
@@ -227,10 +230,12 @@ Overall, the software implementation of this project was simplified more than wh
 ### [Appendix D: Microcontroller Selection](/Appendices/MicrocontrollerAppendix)
 
 ### [Appendix E: Hardware Proposal](/Appendices/HardwarePropAppendix)
+ 
+ ### Appendix F: MQTT Topic Table
 
-### [Appendix F: MPLab X Code](/Appendices/Code/mplab_code)
+### [Appendix G: MPLab X Code](/Appendices/Code/mplab_code)
 
-### Appendix G: ESP32 Code
+### Appendix H: ESP32 Code
 #### [AsyncMqttUart-py](/Appendices/Code/ESP32Code/async_mqtt_uart)
 #### [Boot-py](/Appendices/Code/ESP32Code/boot)
 #### [Esp32-py](/Appendices/Code/ESP32Code/esp32_setup)

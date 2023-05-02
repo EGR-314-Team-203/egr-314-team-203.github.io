@@ -164,15 +164,12 @@ In addition, there were a few schematic changes, that did not affect the team's 
 
 Finally, as it can be seen in the schematic above, there was an incorrect trace on the Microcontroller for pins 19 and 20, that was missed before sending over to JLCPCB. After the board was delivered, the team identified the short and had to cut the trace out for the ground pin in order to be able to properly power the microcontroller. 
 
- ![image_14](https://user-images.githubusercontent.com/102606124/235581554-4994828f-ad23-4309-9e68-c44b926fb71c.png)
-
- ![96491657638](https://user-images.githubusercontent.com/102606124/235581621-b8efc72b-975a-4d31-a4e9-709eeb69f03c.png)
+![96491657638](https://user-images.githubusercontent.com/102606124/235582025-5e98a78e-da36-4571-8278-dc0f922223c5.png)  ![image_14](https://user-images.githubusercontent.com/102606124/235582001-af04cc74-19eb-440d-a06b-3866c3b65c19.png) 
  
 Majority of these changes would not have altered the outcome of how the final project design turned out, but would have made the time taken to manage these little tasks, to lessen, so the team could focus on programming and debugging. 
 
 ### Bill of Materials
 For the team's most recent version of the Bill of Materials, it can be found in [Appendix E](#Appendices)
-
  
 ## Final Software Implementation
 Below is a diagram of how the software should run on the microcontroller and subcircuits. The goal is to have the box lid open if the moisture sensor or temperature sensor detects a value that is higher than the user set. This will tell the microcontroller to trigger the motors to open the lid to keeps the plants in an ideal environment.

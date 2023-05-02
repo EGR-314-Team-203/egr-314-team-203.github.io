@@ -26,8 +26,8 @@ _Spring 2023_
 - [Selected Design](#selected-design)
 - [Block Diagram](#block-diagram)
 - [Component Selection](#component-selection)
-- [Hardware Implementation](#hardware-implementation)
-- [Software Proposal](#software-proposal)
+- [Hardware Implementation](#final-hardware-implementation)
+- [Software Implementation](#final-software-implementation)
 - [Presentations](#presentations)
 - [Appendices](#appendices)
 
@@ -36,8 +36,8 @@ _Spring 2023_
 - [Current Diagram](#current-diagram)
 - [Chosen Parts](#chosen-parts)
 - [Power Budget](#power-budget)
-- [Schematic](#schematic)
-- [Software Proposal Diagram](#software-proposal)
+- [Schematic and PCB](#schematic)
+- [Software Proposal Diagram](#final-software-implementation)
 
 ## Introduction
 This semester, the EGR 314 (Embedded Systems Design) class is focusing on weather-related measurements. All teams are tasked with creating a deliverable product that, in some sense, measures and responds to the environment around it. Our team, Team 203, is creating a plant environment box that measure the temperature and humidity within a contained planter that can adjust watering and the lid movement in order to help the plant thrive in the best conditions.

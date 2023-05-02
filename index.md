@@ -143,10 +143,11 @@ In order to ensure that all systems can be used, a power budget was created. Thi
 ## Hardware Implementation
 ### Schematic
 Including each team member's individual schematioc and combining them together with team based work components, this schematic is the most recently updated version is shown below.
-
-![Team_203_FinalSchematic](https://user-images.githubusercontent.com/122824540/235548872-c151e3a7-c93a-46e8-9d67-03faaac35b3b.jpg)
  
-![Team_203_FinalBoard](https://user-images.githubusercontent.com/122824540/235550859-94e8a467-cd32-4284-8b6e-5e576195b8f8.jpg)
+ <img src="https://user-images.githubusercontent.com/122824540/235548872-c151e3a7-c93a-46e8-9d67-03faaac35b3b.jpg" width="800" height="700">
+
+
+ <img src="https://user-images.githubusercontent.com/122824540/235550859-94e8a467-cd32-4284-8b6e-5e576195b8f8.jpg" width="800" height="700">
 
 A .pdf version of this schematic can also be downloaded in [Appendix E](Appendix-E:-Hardware-Proposal)
 

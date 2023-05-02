@@ -13,8 +13,7 @@ Below is a schematic of each teammate's subsystem, combined into our final produ
 
 Additionally, this can be viewed as a .pdf
 
-[Team 203 PDF.pdf](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/files/10836773/Team.203.PDF.pdf)
-
+[team203schematic.pdf](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/files/11369396/team203schematic.pdf)
 
 
 ## Bill of Materials

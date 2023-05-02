@@ -8,14 +8,15 @@ title: Hardware Proposal
 Below is a schematic of each teammate's subsystem, combined into our final product.
 
  <img src="https://user-images.githubusercontent.com/122824540/235548872-c151e3a7-c93a-46e8-9d67-03faaac35b3b.jpg" width="800" height="700">
+ 
+ Additionally, this can be viewed as a .pdf
+
+[team203schematic.pdf](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/files/11369396/team203schematic.pdf)
 
 ## Team PCB Front and Back
 
- <img src="https://user-images.githubusercontent.com/122768743/235578660-0bc36884-c537-453a-9a09-46d7b3b1c7a5.jpg" width="400" height="200">
+ <img src="https://user-images.githubusercontent.com/122768743/235578660-0bc36884-c537-453a-9a09-46d7b3b1c7a5.jpg" width="600" height="200">
 
-Additionally, this can be viewed as a .pdf
-
-[team203schematic.pdf](https://github.com/EGR-314-Team-203/egr-314-team-203.github.io/files/11369396/team203schematic.pdf)
 
 
 ## Bill of Materials

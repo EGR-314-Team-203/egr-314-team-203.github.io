@@ -140,7 +140,7 @@ In order to ensure that all systems can be used, a power budget was created. Thi
  
 <img src="https://user-images.githubusercontent.com/122824540/235560686-243ce0ad-cd22-43a8-9022-b8910e97695e.jpg" width="800" height="700">
 
-## Hardware Implementation
+## Final Hardware Implementation
 ### Schematic
 Including each team member's individual schematioc and combining them together with team based work components, this schematic is the most recently updated version is shown below.
  
@@ -157,7 +157,6 @@ By focusing on the User Needs observed above, the team combined all of the neces
 ### Design and Decision Making
 Majority of the decisions for the components are discussed in the Component Selection, of this page. When deciding which components ran off of I2C or SPI, the logical decision was to have the Humidity and Temperature sensors both I2C, as they will both be chained together and will both determine the actions of the motor driver, which was SPI. The ESP32 was assigned to work through UART, as this was what was done in class, through Thonny or Vscode. These decisions were able to help organize and decipher who was doing which subsystem from the requirements. 
  
-
 ### Future Improvements
  If the team had the chance to create a Version 2.0 of this design, a few ideas were put together on what the team could have implemented into a new board. There would be more debugging capabilities added to allow for an easier time to differentiate the sensors and motor driver. The board had 1 LED that was able to act as a debugging tool for the team, while the first communication tests were not working. This LED would be programmed to blink, be set high or low, and let the team know when either the Humidity or temperature sensor were reading specific values. Although the sensors were daisy chained to each other through the microcontroller, two separate LEDs would have sped up the process. 
 
@@ -166,18 +165,24 @@ In addition, there were a few schematic changes, that did not affect the team's 
 Finally, as it can be seen in the schematic above, there was an incorrect trace on the Microcontroller for pins 19 and 20, that was missed before sending over to JLCPCB. After the board was delivered, the team identified the short and had to cut the trace out for the ground pin in order to be able to properly power the microcontroller. 
 
 Majority of these changes would not have altered the outcome of how the final project design turned out, but would have made the time taken to manage these little tasks, to lessen, so the team could focus on programming and debugging. 
- 
 
 ### Bill of Materials
 For the team's most recent version of the Bill of Materials, it can be found in [Appendix E](#Appendices)
 
-## Software Proposal
+ 
+## Final Software Implementation
 Below is a diagram of how the software should run on the microcontroller and subcircuits. The goal is to have the box lid open if the moisture sensor or temperature sensor detects a value that is higher than the user set. This will tell the microcontroller to trigger the motors to open the lid to keeps the plants in an ideal environment.
 ![TEAM 203 COMPLETE SOFTWARE (1)](https://user-images.githubusercontent.com/102606124/221484119-72a156be-3abc-4f81-9cb6-9f7a0149567d.png)
 
  ### User Needs and Requirements Satisfaction
  The Team was able to analyze the needs and requirements, along with the Hardware Implementation to work through creating a product that met the criteria. The sensors needed to read accurate data, and this was worked through by checking addresses with the data sheet and analyzing the trends in the data. Such as if the temperature sensor was close to what the room thermostat was or lining up with other team's readings.
 
+### Design and Decision Making Process
+ The team based the software implementation and proposal around a chronological view point. This would make the most sense to the team and anyone else reading the code, without knowing much about the project. Taking the sensors and motor from above, the team planned to have the motor be driven based on readings from the humidity and temperature sensors.
+ 
+### Top 5 Biggest Changes to Software Design
+ 
+ 
 ### Future Changes
  If the team were to be able to improve the software design, Team 203 would aim to have a more chronological set code, that can be easier to read and allow more features. The interrupts were last minute add-ins, but the original idea was to be able to have this cause when the motor would turn on and off. This should be improved upon because the team could learn more from this implementation and be able to control the motor more than they would have if it would have worked. This personalized ISR would have been organized to be called when the humidity or temperature was moved out of range of the plants specifications, and could be implemented multiple times on different occasions.
 
@@ -187,7 +192,9 @@ Additional peripherals that could be added is including the OLED screen and an e
 
 Overall, the software implementation of this project was simplified more than what the project path could have taken, and what the team would have wanted. Due to technical issues with the motor driver, majority of the team was spent on debugging this rather than improving upon the code. If there were to be a version 2.0, the team had spoken about dividing sooner than later to have been able to work on the code more. 
 
- 
+## System Verification
+ Below is the final System Verification Table that is updated with each subsystem checked off by the Teaching Assistants. 
+ <img src="https://user-images.githubusercontent.com/122824540/235564797-2297d1fd-6a37-4caa-957a-4a07f800246a.jpg" width="800" height="700">
 
 ## Presentations
 

@@ -203,7 +203,7 @@ Overall, the software implementation of this project was simplified more than wh
 
 ## System Verification
  Below is the final System Verification Table that is updated with each subsystem checked off by the Teaching Assistants. 
- <img src="https://user-images.githubusercontent.com/122824540/235564797-2297d1fd-6a37-4caa-957a-4a07f800246a.jpg" width="800" height="600">
+ <img src="https://user-images.githubusercontent.com/122824540/235564797-2297d1fd-6a37-4caa-957a-4a07f800246a.jpg" width="1200" height="600">
 
 ## Presentations
 

@@ -164,6 +164,10 @@ In addition, there were a few schematic changes, that did not affect the team's 
 
 Finally, as it can be seen in the schematic above, there was an incorrect trace on the Microcontroller for pins 19 and 20, that was missed before sending over to JLCPCB. After the board was delivered, the team identified the short and had to cut the trace out for the ground pin in order to be able to properly power the microcontroller. 
 
+ ![image_14](https://user-images.githubusercontent.com/102606124/235581554-4994828f-ad23-4309-9e68-c44b926fb71c.png)
+
+ ![96491657638](https://user-images.githubusercontent.com/102606124/235581621-b8efc72b-975a-4d31-a4e9-709eeb69f03c.png)
+ 
 Majority of these changes would not have altered the outcome of how the final project design turned out, but would have made the time taken to manage these little tasks, to lessen, so the team could focus on programming and debugging. 
 
 ### Bill of Materials
@@ -226,7 +230,8 @@ Overall, the software implementation of this project was simplified more than wh
 1. Chose teammates based on character (not just "smarts" or if they're your friend)
 2. Put in your best effort! Not everything has to or will be perfect, but it shows when you put your best in.
 3. Be creative! It's okay to have different ideas, design, and get artsy with your project! (It looks more presentable than a nest of jumper cables, we learned from experience.)
-4. Be ready to learn. This year will be a challenge, but if you are willing to learn in and out of class, you'll be successful.
+4. Expect to fail and try again. This course will test your ability to overcome adversity.
+5. Be ready to learn. This year will be a challenge, but if you are willing to learn in and out of class, you'll be successful.
 
 Sometimes it can get difficult to keep the destination in mind, but remember you aren't alone. TAs, classmates, and your own team will be there to help. Get ready to set course and have a good voyage! (I couldn't help using the sailing ship metaphor).
  

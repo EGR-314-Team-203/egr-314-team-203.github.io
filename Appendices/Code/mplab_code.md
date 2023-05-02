@@ -1,3 +1,10 @@
+---
+title: mplab_code
+---
+
+
+# MPLABX C++
+```
 /*PIN ALLOCATIONS
 RA0 - Debuggin LED
 RA4 - MTRCSN (Motor SS/GPIO pin)
@@ -95,3 +102,4 @@ void main(void) {
     }
         
     }
+    ```

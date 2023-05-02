@@ -149,7 +149,7 @@ Including each team member's individual schematioc and combining them together w
 
  <img src="https://user-images.githubusercontent.com/122824540/235550859-94e8a467-cd32-4284-8b6e-5e576195b8f8.jpg" width="800" height="700">
 
-A .pdf version of this schematic can also be downloaded in [Appendix E](#Appendices)
+A .pdf version of this schematic can also be downloaded in [Appendix E](#appendices)
 
 ### User Needs and Requirements Satisfaction Implementation
 By focusing on the User Needs observed above, the team combined all of the necessary components that were able to focus on these needs, such as have an accessible power supply and easily readable data from your phone. Both the Humidity and Temperature sensor are both able to help provide necessary readings for the user to be able to see and measure any up to date information. From this, the motor is able to act accordingly to the measurements or the user's preferences. The Switching Voltage Regulator, Humidity and Temperature Sensor and the Motor Driver, all lay down in the project requirements, and were easily able to be implemented to the idea of the user being able to control the environment of set plants.
@@ -169,7 +169,7 @@ Finally, as it can be seen in the schematic above, there was an incorrect trace 
 Majority of these changes would not have altered the outcome of how the final project design turned out, but would have made the time taken to manage these little tasks, to lessen, so the team could focus on programming and debugging. 
 
 ### Bill of Materials
-For the team's most recent version of the Bill of Materials, it can be found in [Appendix E](#Appendices)
+For the team's most recent version of the Bill of Materials, it can be found in [Appendix E](#appendices)
  
 ## Final Software Implementation
 Below is a diagram of how the software should run on the microcontroller and subcircuits. The goal is to have the box lid open if the moisture sensor or temperature sensor detects a value that is higher than the user set. This will tell the microcontroller to trigger the motors to open the lid to keeps the plants in an ideal environment.
@@ -199,7 +199,7 @@ Additional peripherals that could be added is including the OLED screen and an e
 Overall, the software implementation of this project was simplified more than what the project path could have taken, and what the team would have wanted. Due to technical issues with the motor driver, majority of the team was spent on debugging this rather than improving upon the code. If there were to be a version 2.0, the team had spoken about dividing sooner than later to have been able to work on the code more. 
  
 ### MQTT Topic Table and Corresponding Code
- The Topic Table can be found in [Appendix F](#Appendices) and the code for the project can be found in [Appendix G](#Appendices) and [Appendix H](#Appendices)
+ The Topic Table can be found in [Appendix F](#appendices) and the code for the project can be found in [Appendix G](#appendices) and [Appendix H](#appendices)
 
 ## System Verification
  Below is the final System Verification Table that is updated with each subsystem checked off by the Teaching Assistants. 

@@ -175,6 +175,19 @@ For the team's most recent version of the Bill of Materials, it can be found in 
 Below is a diagram of how the software should run on the microcontroller and subcircuits. The goal is to have the box lid open if the moisture sensor or temperature sensor detects a value that is higher than the user set. This will tell the microcontroller to trigger the motors to open the lid to keeps the plants in an ideal environment.
 ![TEAM 203 COMPLETE SOFTWARE (1)](https://user-images.githubusercontent.com/102606124/221484119-72a156be-3abc-4f81-9cb6-9f7a0149567d.png)
 
+ ### User Needs and Requirements Satisfaction
+ The Team was able to analyze the needs and requirements, along with the Hardware Implementation to work through creating a product that met the criteria. The sensors needed to read accurate data, and this was worked through by checking addresses with the data sheet and analyzing the trends in the data. Such as if the temperature sensor was close to what the room thermostat was or lining up with other team's readings.
+
+### Future Changes
+ If the team were to be able to improve the software design, Team 203 would aim to have a more chronological set code, that can be easier to read and allow more features. The interrupts were last minute add-ins, but the original idea was to be able to have this cause when the motor would turn on and off. This should be improved upon because the team could learn more from this implementation and be able to control the motor more than they would have if it would have worked. This personalized ISR would have been organized to be called when the humidity or temperature was moved out of range of the plants specifications, and could be implemented multiple times on different occasions.
+
+In addition, the code could be divided up between what would happen in various scenarios, and have the personalized functions for each sensor and the motor driver. In doing so, this can help clean up the code and make it more readable. As well, it could simplify any debugging issues, because the team could easily be able to determine where the code was stuck at. The temperature and humidity sensors are separated, and at one point was divided into functions, but without the functioning motor, it became too much code, for what little it could do. With the motor being functional, the team could have spent more time organizing it so that there would be no confusions. 
+
+Additional peripherals that could be added is including the OLED screen and an extra fan. The OLED was worked on, and from class had been implemented, but due to timing reasons, the team was unable to add it into the final design. The extra fan idea was overlooked as it did not meet requirements for the project and was extra work the team would have had to focus on. This feature, however, could have helped change the conditions of the sensors faster, to not only be able to see an update, but also help improve the overall project idea of cooling down the environment inside. 
+
+Overall, the software implementation of this project was simplified more than what the project path could have taken, and what the team would have wanted. Due to technical issues with the motor driver, majority of the team was spent on debugging this rather than improving upon the code. If there were to be a version 2.0, the team had spoken about dividing sooner than later to have been able to work on the code more. 
+
+ 
 
 ## Presentations
 

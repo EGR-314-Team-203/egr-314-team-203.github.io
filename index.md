@@ -174,7 +174,7 @@ For the team's most recent version of the Bill of Materials, it can be found in 
 Below is a diagram of how the software should run on the microcontroller and subcircuits. The goal is to have the box lid open if the moisture sensor or temperature sensor detects a value that is higher than the user set. This will tell the microcontroller to trigger the motors to open the lid to keeps the plants in an ideal environment.
 ![TEAM 203 COMPLETE SOFTWARE (1)](https://user-images.githubusercontent.com/102606124/221484119-72a156be-3abc-4f81-9cb6-9f7a0149567d.png)
 
- ### User Needs and Requirements Satisfaction
+### User Needs and Requirements Satisfaction
  The Team was able to analyze the needs and requirements, along with the Hardware Implementation to work through creating a product that met the criteria. The sensors needed to read accurate data, and this was worked through by checking addresses with the data sheet and analyzing the trends in the data. Such as if the temperature sensor was close to what the room thermostat was or lining up with other team's readings.
 
 ### Design and Decision Making Process

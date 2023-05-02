@@ -201,9 +201,16 @@ Overall, the software implementation of this project was simplified more than wh
  [For Checkpoint 1, look here](link to appendix with video)
  
 ## Lessons Learned
- 1. Have the whole team look through not only their subsystem but each other's subsystem before submitting any PCB design
- 2. 
- 
+ 1. The team needed everyone to look through not only their subsystem but each other's subsystem before submitting any PCB design.
+ 2. When starting out, the team had to ensure there was enough time for each subsystem to be working before starting on the team board.
+ 3. The team should have spent more time focusing on the code as a whole rather than everyone working to solve a single subsystem.
+ 4. Next time, the team would work through the first team protoboard before submitting the final board. This did not affect the final product as it had few errors, but it would have saved time while working on the final board.
+ 5. In the code, the interrupts would have involved the motor being turned on and off based on the readings of the sensors, rather than an interrupt counter.
+ 6. Rather than having the entirety of the board on top of the plant box, the team should have created daughter boards for the sensors and then the motor driver to create a better end product. This was feedback from an external reviewer the team looked into, but did not have the time to pursue.
+ 7. There are various plants that need different conditions than the sunflowers needed, so implementing a way to alter a rangwe of temperature and humidity for the plants could have been a preset for the user.
+ 8. The team could have experimented with interfaces outside of the project requirements to be able to help improve the product, like following through with the fully operating water pump.
+ 9. The team learned for next time to focus more on ensuring that the bidirectional control was operating without failure, and could show a more pronounced result.
+ 10. Next time, the team would learn more about the humidity sensor to work to get more updated readings or find a way to change the humidity in the atmosphere that was more pronounced. 
  
 ## Recommendations for Future Students
  

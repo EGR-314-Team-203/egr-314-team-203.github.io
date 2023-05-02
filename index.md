@@ -149,7 +149,7 @@ Including each team member's individual schematioc and combining them together w
 
  <img src="https://user-images.githubusercontent.com/122824540/235550859-94e8a467-cd32-4284-8b6e-5e576195b8f8.jpg" width="800" height="700">
 
-A .pdf version of this schematic can also be downloaded in [Appendix E](Appendix-E:-Hardware-Proposal)
+A .pdf version of this schematic can also be downloaded in [Appendix E](#Appendices)
 
 ### User Needs and Requirements Satisfaction Implementation
 By focusing on the User Needs observed above, the team combined all of the necessary components that were able to focus on these needs, such as have an accessible power supply and easily readable data from your phone. Both the Humidity and Temperature sensor are both able to help provide necessary readings for the user to be able to see and measure any up to date information. From this, the motor is able to act accordingly to the measurements or the user's preferences. The Switching Voltage Regulator, Humidity and Temperature Sensor and the Motor Driver, all lay down in the project requirements, and were easily able to be implemented to the idea of the user being able to control the environment of set plants.
@@ -169,7 +169,7 @@ Majority of these changes would not have altered the outcome of how the final pr
  
 
 ### Bill of Materials
-For the team's most recent version of the Bill of Materials, it can be found in [Appendix E](/HardwarePropAppendix)
+For the team's most recent version of the Bill of Materials, it can be found in [Appendix E](#Appendices)
 
 ## Software Proposal
 Below is a diagram of how the software should run on the microcontroller and subcircuits. The goal is to have the box lid open if the moisture sensor or temperature sensor detects a value that is higher than the user set. This will tell the microcontroller to trigger the motors to open the lid to keeps the plants in an ideal environment.

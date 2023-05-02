@@ -25,4 +25,5 @@ Our group's other idea was a windmill that could relay useful weather informatio
 Eventually, Team 203 decided on a monitored plant enviroment. 
 
 ### Other Images
+This Google Drawing was used just as a way for the team to visualize the different voltages needed in the project for which subsystems.
 ![Just thinkin](https://user-images.githubusercontent.com/102606124/221393244-fad0333a-f953-4146-8131-c0bf129b4029.png)

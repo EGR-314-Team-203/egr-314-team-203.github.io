@@ -235,9 +235,5 @@ Overall, the software implementation of this project was simplified more than wh
 
 ### [Appendix G: MPLab X Code](/Appendices/Code/mplab_code)
 
-### Appendix H: ESP32 Code
-#### [AsyncMqttUart-py](/Appendices/Code/ESP32Code/async_mqtt_uart)
-#### [Boot-py](/Appendices/Code/ESP32Code/boot)
-#### [Esp32-py](/Appendices/Code/ESP32Code/esp32_setup)
-#### [SimpleUartEcho-py](/Appendices/Code/ESP32Code/simple_uart_echo)
+### [Appendix H: ESP32 Code](/Appendices/Code/ESP32code/Micropython)
 

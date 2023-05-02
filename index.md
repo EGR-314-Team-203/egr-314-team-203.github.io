@@ -233,7 +233,7 @@ Overall, the software implementation of this project was simplified more than wh
  
 ### [Appendix F: MQTT Topic Table](/Appendices/MQTTtopicAppendix)
 
-### [Appendix G: MPLab X Code](/Appendices/Code/mplab_code)
+### [Appendix G: MPLab X Code and Configuration](/Appendices/Code/mplab_code)
 
 ### [Appendix H: ESP32 Code](/Appendices/Code/ESP32)
 

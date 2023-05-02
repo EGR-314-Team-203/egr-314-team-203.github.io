@@ -202,9 +202,9 @@ Below is a diagram of how the software should run on the microcontroller and sub
 
 ### [Appendix F: MPLab X Code](/Appendices/Code/mplab_code)
 
-### Appendix G: ESP32 Code:
-#### [Async_mqtt_uart.py](/Appendices/Code/ESP32 Code/async_mqtt_uart)
-#### [Boot.py](/Appendices/Code/ESP32 Code/boot)
-#### [Esp32.py](/Appendices/Code/ESP32 Code/esp32_setup)
-#### [Simple_uart_echo.py](/Appendices/Code/ESP32 Code/simple_uart_echo)
+### Appendix G: ESP32 Code
+#### [AsyncMqttUart-py](/Appendices/Code/ESP32Code/async_mqtt_uart)
+#### [Boot-py](/Appendices/Code/ESP32Code/boot)
+#### [Esp32-py](/Appendices/Code/ESP32Code/esp32_setup)
+#### [SimpleUartEcho-py](/Appendices/Code/ESP32Code/simple_uart_echo)
 

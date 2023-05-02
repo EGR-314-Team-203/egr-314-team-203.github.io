@@ -138,7 +138,7 @@ To make a well-rounded product that does its job, as well as completes class req
 ### Power Budget
 In order to ensure that all systems can be used, a power budget was created. This power budget ensures we have all aspects (voltage, Amps, etc.) to power each part of our system.
  
-<img src="https://user-images.githubusercontent.com/122824540/235560686-243ce0ad-cd22-43a8-9022-b8910e97695e.jpg" width="800" height="700">
+<img src="https://user-images.githubusercontent.com/122824540/235560686-243ce0ad-cd22-43a8-9022-b8910e97695e.jpg" width="600" height="500">
 
 ## Final Hardware Implementation
 ### Schematic
@@ -203,7 +203,7 @@ Overall, the software implementation of this project was simplified more than wh
 
 ## System Verification
  Below is the final System Verification Table that is updated with each subsystem checked off by the Teaching Assistants. 
- <img src="https://user-images.githubusercontent.com/122824540/235564797-2297d1fd-6a37-4caa-957a-4a07f800246a.jpg" width="1200" height="600">
+ <img src="https://user-images.githubusercontent.com/122824540/235564797-2297d1fd-6a37-4caa-957a-4a07f800246a.jpg" width="1200" height="500">
 
 ## Presentations
 

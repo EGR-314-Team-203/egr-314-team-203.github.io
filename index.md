@@ -181,7 +181,12 @@ Below is a diagram of how the software should run on the microcontroller and sub
  The team based the software implementation and proposal around a chronological view point. This would make the most sense to the team and anyone else reading the code, without knowing much about the project. Taking the sensors and motor from above, the team planned to have the motor be driven based on readings from the humidity and temperature sensors.
  
 ### Top 5 Biggest Changes to Software Design
- 
+1. The first change the team had made was removing the OLED to read and display the data with the ESP32 Wifi and Bluetooth solely. This change simplified the whole system and allowed the team to be able to focus on the ESP32 and enhance the readings that the OLED would not be able to do.
+2. Another change the team made to the software design was the addition of surface mount LED based timer interrupt. This was implemented before the sensor based interrupts for system verification. 
+3. The team added to the software design by including the ability to read incoming data on RX line to change read sensor data with ESP32. This was important as it allowed the user to change data to adjust other functions in the main code. 
+4. For debugging purposes, the team originally planned to have several leds for each subsystem. In the end, due to space, there were only 2 LEDs incorporated in the hardware design, which affected the software. In doing so, one LED was indicated for power and the other helped debug the humidity and temperature sensors, in addition to the interrupts.
+5. Led lights separated from the whole system allows for the team to turn on the project's internal lighting separate from the main code to debug power connection. Since the LED’s serve no function other than turning on and off, this is unnecessary in the main loop. 
+
  
 ### Future Changes
  If the team were to be able to improve the software design, Team 203 would aim to have a more chronological set code, that can be easier to read and allow more features. The interrupts were last minute add-ins, but the original idea was to be able to have this cause when the motor would turn on and off. This should be improved upon because the team could learn more from this implementation and be able to control the motor more than they would have if it would have worked. This personalized ISR would have been organized to be called when the humidity or temperature was moved out of range of the plants specifications, and could be implemented multiple times on different occasions.

@@ -221,7 +221,14 @@ Overall, the software implementation of this project was simplified more than wh
  10. Next time, the team would learn more about the humidity sensor to work to get more updated readings or find a way to change the humidity in the atmosphere that was more pronounced. 
  
 ## Recommendations for Future Students
- 
+ While the 300 level prject classes will come with growing pains, we promise that you will have learned so much by the end of the year. That said, you have to put in a lot of work. Every person on your team will have to pull equal weight in order to be successful- any slackers will heavily impact you. In that regard, choose your teammates based on their character, not just because they are your friend or are "very smart." You need people that will be able to help you stay on track, give and receive critique, and still be on speaking terms at the end of the day. Metaphorically, this year will be a *long* voyage and you need a top-tier ship crew you don't want to throw overboard if they don't compile code correctly. To summarize this into a bulleted list:
+
+1. Chose teammates based on character (not just "smarts" or if they're your friend)
+2. Put in your best effort! Not everything has to or will be perfect, but it shows when you put your best in.
+3. Be creative! It's okay to have different ideas, design, and get artsy with your project! (It looks more presentable than a nest of jumper cables, we learned from experience.)
+4. Be ready to learn. This year will be a challenge, but if you are willing to learn in and out of class, you'll be successful.
+
+Sometimes it can get difficult to keep the destination in mind, but remember you aren't alone. TAs, classmates, and your own team will be there to help. Get ready to set course and have a good voyage! (I couldn't help using the sailing ship metaphor).
  
  
 ## Appendices
